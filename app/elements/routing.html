@@ -2,8 +2,8 @@
 <script>
     function trackPageview(path) { // jshint ignore:line
         /* jshint ignore:start */
-        ga('set', 'page', path);
-        ga('send', 'pageview');
+        // ga('set', 'page', path);
+        // ga('send', 'pageview');
         /* jshint ignore:end */
     }
 
@@ -21,21 +21,21 @@
             app.smoothScroll(pricetable, 0);
         });
 
-        page('/blog', function() {
-            trackPageview('/blog');
-            app.route = 'blog';
-        });
+        // page('/blog', function() {
+        //     trackPageview('/blog');
+        //     app.route = 'blog';
+        // });
 
-        page('/blog/:title', function(ctx) {
-            trackPageview('/blog/' + ctx.params.title);
-            app.route = 'blog';
-            app.params = ctx.params;
-            app.scrollToTop();
-        });
+        // page('/blog/:title', function(ctx) {
+        //     trackPageview('/blog/' + ctx.params.title);
+        //     app.route = 'blog';
+        //     app.params = ctx.params;
+        //     app.scrollToTop();
+        // });
 
-        page.exit('/blog/:title', function() {
-            document.querySelector('#blog').closePost();
-        });
+        // page.exit('/blog/:title', function() {
+        //     document.querySelector('#blog').closePost();
+        // });
 
         page('/speakers', function() {
             trackPageview('/speakers');
@@ -48,16 +48,16 @@
             app.params = data.params;
         });
 
-        page('/schedule', function() {
-            trackPageview('/schedule');
-            app.route = 'schedule';
-            app.scrollToTop();
-        });
-        page('/schedule/:id', function(data) {
-            trackPageview('/schedule/' + data.params.id);
-            app.route = 'schedule';
-            app.params = data.params;
-        });
+        // page('/schedule', function() {
+        //     trackPageview('/schedule');
+        //     app.route = 'schedule';
+        //     app.scrollToTop();
+        // });
+        // page('/schedule/:id', function(data) {
+        //     trackPageview('/schedule/' + data.params.id);
+        //     app.route = 'schedule';
+        //     app.params = data.params;
+        // });
 
         page('/contact', function() {
             trackPageview('/contact');
