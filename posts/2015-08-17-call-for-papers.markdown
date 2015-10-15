@@ -1,4 +1,4 @@
-GDG DevFest Ukraine 2015 will be held on **October 23-24** in ancient city of Lviv. If you want to be part of this great event as a speaker you knocked at the good door.
+GDG DevFest Istanbul 2015 will be held on **November 29th** in Istanbul. If you want to be part of this great event as a speaker you knocked at the good door.
 
 
 ### Presenters – who should speak at the DevFest Conference?
