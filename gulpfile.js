@@ -20,7 +20,7 @@ var merge = require('merge-stream');
 var path = require('path');
 var fs = require('fs');
 var glob = require('glob');
-// var ghPages = require('gulp-gh-pages');
+var ghPages = require('gulp-gh-pages');
 
 var AUTOPREFIXER_BROWSERS = [
   'ie >= 10',
@@ -199,10 +199,10 @@ gulp.task('precache', function (callback) {
   });
 });
 
-// gulp.task('gh-pages', function() {
-//   return gulp.src('./dist/**/*')
-//     .pipe(ghPages());
-// });
+gulp.task('gh-pages', function() {
+  return gulp.src('./dist/**/*')
+    .pipe(ghPages());
+});
 
 // Clean Output Directory
 gulp.task('clean', del.bind(null, ['.tmp', 'dist']));
@@ -275,6 +275,8 @@ gulp.task('default', ['clean'], function (cb) {
 
 // Deploy on GitHub
 gulp.task('deploy', ['default'], function (cb) {
+  runSequence('gh-pages',
+    cb);
 });
 
 // Load tasks for web-component-tester
