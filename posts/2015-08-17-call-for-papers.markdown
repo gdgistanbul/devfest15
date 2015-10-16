@@ -47,12 +47,12 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 * Go (as a language for a Cloud Ready Apps)
 
 
-### Please fill the [Call for Papers form](http://bit.ly/dfua-cfp) to submit your proposals.
+### Please fill the [Call for Papers form](http://bit.ly/devfestist-cfp) to submit your proposals.
 
-**Deadline** is September 1, 2015
+**Deadline** is November 10, 2015
 
 **Please note:** There is no guarantee that a submission will be put onto the conference agenda!<br/>
 
-The program committee picks the most interesting talk proposals and informs the selected submitters until September 15, 2015.<br/>
+The program committee picks the most interesting talk proposals and informs the selected submitters until November 15, 2015.<br/>
 
-Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+Any questions? Email organizers at [devfest@gdgistanbul.com](mailto:devfest@gdgistanbul.com)
