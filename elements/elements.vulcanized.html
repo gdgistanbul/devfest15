@@ -10868,14 +10868,14 @@ Apply `circle` class to make the rippling effect within a circle.
 
 <script>
 
-  /** 
-   * `Polymer.PaperRippleBehavior` dynamically implements a ripple 
+  /**
+   * `Polymer.PaperRippleBehavior` dynamically implements a ripple
    * when the element has focus via pointer or keyboard.
    *
    * NOTE: This behavior is intended to be used in conjunction with and after
    * `Polymer.IronButtonState` and `Polymer.IronControlState`.
    *
-   * @polymerBehavior Polymer.PaperRippleBehavior 
+   * @polymerBehavior Polymer.PaperRippleBehavior
    */
   Polymer.PaperRippleBehavior = {
 
@@ -10887,11 +10887,18 @@ Apply `circle` class to make the rippling effect within a circle.
       noink: {
         type: Boolean,
         observer: '_noinkChanged'
+      },
+
+      /**
+       * @type {Element|undefined}
+       */
+      _rippleContainer: {
+        type: Object,
       }
     },
 
     /**
-     * Ensures a `<paper-ripple>` element is available when the element is 
+     * Ensures a `<paper-ripple>` element is available when the element is
      * focused.
      */
     _buttonStateChanged: function() {
@@ -10900,7 +10907,7 @@ Apply `circle` class to make the rippling effect within a circle.
       }
     },
 
-    /** 
+    /**
      * In addition to the functionality provided in `IronButtonState`, ensures
      * a ripple effect is created when the element is in a `pressed` state.
      */
@@ -10912,12 +10919,12 @@ Apply `circle` class to make the rippling effect within a circle.
     },
 
     /**
-     * Ensures this element contains a ripple effect. For startup efficiency 
+     * Ensures this element contains a ripple effect. For startup efficiency
      * the ripple effect is dynamically on demand when needed.
-     * @param {event} triggeringEvent (optional) event that triggered the 
+     * @param {!Event=} opt_triggeringEvent (optional) event that triggered the
      * ripple.
      */
-    ensureRipple: function(triggeringEvent) {
+    ensureRipple: function(opt_triggeringEvent) {
       if (!this.hasRipple()) {
         this._ripple = this._createRipple();
         this._ripple.noink = this.noink;
@@ -10925,10 +10932,13 @@ Apply `circle` class to make the rippling effect within a circle.
         if (rippleContainer) {
           Polymer.dom(rippleContainer).appendChild(this._ripple);
         }
-        var domContainer = rippleContainer === this.shadyRoot ? this : 
+        var domContainer = rippleContainer === this.shadyRoot ? this :
           rippleContainer;
-        if (triggeringEvent && domContainer.contains(triggeringEvent.target)) {
-          this._ripple.uiDownAction(triggeringEvent);
+        if (opt_triggeringEvent) {
+          var target = opt_triggeringEvent.target;
+          if (domContainer.contains(/** @type {Node} */(target))) {
+            this._ripple.uiDownAction(opt_triggeringEvent);
+          }
         }
       }
     },
@@ -10936,7 +10946,7 @@ Apply `circle` class to make the rippling effect within a circle.
     /**
      * Returns the `<paper-ripple>` element used by this element to create
      * ripple effects. The element's ripple is created on demand, when
-     * necessary, and calling this method will force the 
+     * necessary, and calling this method will force the
      * ripple to be created.
      */
     getRipple: function() {
@@ -10955,10 +10965,11 @@ Apply `circle` class to make the rippling effect within a circle.
     /**
      * Create the element's ripple effect via creating a `<paper-ripple>`.
      * Override this method to customize the ripple element.
-     * @return {element} Returns a `<paper-ripple>` element.
+     * @return {!PaperRippleElement} Returns a `<paper-ripple>` element.
      */
     _createRipple: function() {
-      return document.createElement('paper-ripple');
+      return /** @type {!PaperRippleElement} */ (
+          document.createElement('paper-ripple'));
     },
 
     _noinkChanged: function(noink) {
@@ -11022,8 +11033,10 @@ Apply `circle` class to make the rippling effect within a circle.
     },
 
     /**
-     * In addition to `IronButtonState` behavior, when space key goes down, 
+     * In addition to `IronButtonState` behavior, when space key goes down,
      * create a ripple down effect.
+     *
+     * @param {!KeyboardEvent} event .
      */
     _spaceKeyDownHandler: function(event) {
       Polymer.IronButtonStateImpl._spaceKeyDownHandler.call(this, event);
@@ -11033,8 +11046,10 @@ Apply `circle` class to make the rippling effect within a circle.
     },
 
     /**
-     * In addition to `IronButtonState` behavior, when space key goes up, 
+     * In addition to `IronButtonState` behavior, when space key goes up,
      * create a ripple up effect.
+     *
+     * @param {!KeyboardEvent} event .
      */
     _spaceKeyUpHandler: function(event) {
       Polymer.IronButtonStateImpl._spaceKeyUpHandler.call(this, event);
@@ -12592,6 +12607,7 @@ method is called on the element.
 
 </style>
 <!--
+Material design: [Cards](https://www.google.com/design/spec/components/cards.html)
 
 `paper-material` is a container that renders two shadows on top of each other to
 create the effect of a lifted piece of paper.
@@ -12603,7 +12619,6 @@ Example:
     </paper-material>
 
 @group Paper Elements
-@class paper-material
 @demo demo/index.html
 -->
 
@@ -13685,6 +13700,7 @@ Custom property | Description | Default
 `--paper-checkbox-checked-ink-color` | Selected/focus ripple color when the input is checked | `--default-primary-color`
 `--paper-checkbox-checkmark-color` | Checkmark color | `white`
 `--paper-checkbox-label-color` | Label color | `--primary-text-color`
+`--paper-checkbox-label-spacing` | Spacing between the label and the checkbox | `8px`
 `--paper-checkbox-error-color` | Checkbox color when invalid | `--google-red-500`
 
 @demo demo/index.html
@@ -17794,6 +17810,8 @@ as you would a regular DOM element:
 -->
 <!-- Neon elements -->
 <!--
+Material design: [Meaningful transitions](https://www.google.com/design/spec/animation/meaningful-transitions.html)
+
 `neon-animated-pages` manages a set of pages and runs an animation when switching between them. Its
 children pages should implement `Polymer.NeonAnimatableBehavior` and define `entry` and `exit`
 animations to be run when switching to or switching out of the page.
@@ -25461,37 +25479,38 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
 </dom-module>
 
 <dom-module id="paper-material" assetpath="../bower_components/paper-material/">
-  <style>
-    :host {
-      display: block;
-      position: relative;
-    }
-
-    :host([animated]) {
-      @apply(--shadow-transition);
-    }
-
-    :host([elevation="1"]) {
-      @apply(--shadow-elevation-2dp);
-    }
-
-    :host([elevation="2"]) {
-      @apply(--shadow-elevation-4dp);
-    }
-
-    :host([elevation="3"]) {
-      @apply(--shadow-elevation-6dp);
-    }
-
-    :host([elevation="4"]) {
-      @apply(--shadow-elevation-8dp);
-    }
-
-    :host([elevation="5"]) {
-      @apply(--shadow-elevation-16dp);
-    }
-  </style>
   <template>
+    <style>
+      :host {
+        display: block;
+        position: relative;
+      }
+
+      :host([animated]) {
+        @apply(--shadow-transition);
+      }
+
+      :host([elevation="1"]) {
+        @apply(--shadow-elevation-2dp);
+      }
+
+      :host([elevation="2"]) {
+        @apply(--shadow-elevation-4dp);
+      }
+
+      :host([elevation="3"]) {
+        @apply(--shadow-elevation-6dp);
+      }
+
+      :host([elevation="4"]) {
+        @apply(--shadow-elevation-8dp);
+      }
+
+      :host([elevation="5"]) {
+        @apply(--shadow-elevation-16dp);
+      }
+    </style>
+
     <content></content>
   </template>
 </dom-module>
@@ -25500,7 +25519,6 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
     is: 'paper-material',
 
     properties: {
-
       /**
        * The z-depth of this element, from 0-5. Setting to 0 will remove the
        * shadow, and each increasing number greater than 0 will be "deeper"
@@ -25862,7 +25880,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         background-color: var(--paper-checkbox-unchecked-background-color, transparent);
       }
 
-      :host #ink {
+      #ink {
         position: absolute;
         top: -15px;
         left: -15px;
@@ -25873,11 +25891,16 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         pointer-events: none;
       }
 
-      :host #ink[checked] {
+      :host-context([dir="rtl"]) #ink {
+        right: -15px;
+        left: auto;
+      }
+
+      #ink[checked] {
         color: var(--paper-checkbox-checked-ink-color, --default-primary-color);
       }
 
-      :host #checkbox {
+      #checkbox {
         position: relative;
         box-sizing: border-box;
         height: 100%;
@@ -25925,12 +25948,12 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         }
       }
 
-      :host #checkbox.checked {
+      #checkbox.checked {
         background-color: var(--paper-checkbox-checked-color, --default-primary-color);
         border-color: var(--paper-checkbox-checked-color, --default-primary-color);
       }
 
-      :host #checkmark {
+      #checkmark {
         -webkit-transform: rotate(45deg);
         transform: rotate(45deg);
         position: absolute;
@@ -25951,10 +25974,15 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         position: relative;
         display: inline-block;
         vertical-align: middle;
-        padding-left: 8px;
+        padding-left: var(--paper-checkbox-label-spacing, 8px);
         white-space: normal;
         pointer-events: none;
         color: var(--paper-checkbox-label-color, --primary-text-color);
+      }
+
+      :host-context([dir="rtl"]) #checkboxLabel {
+        padding-right: var(--paper-checkbox-label-spacing, 8px);
+        padding-left: 0;
       }
 
       #checkboxLabel[hidden] {
@@ -27446,7 +27474,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
         @apply(--paper-item-focused);
       }
 
-      :host(:focus:before) {
+      :host(:focus):before {
         @apply(--layout-fit);
         content: '';
         background: currentColor;
@@ -30480,6 +30508,7 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
           this._squelchNextFinishEvent = true;
           this.cancelAnimation();
           this._completeSelectedChanged();
+          this._squelchNextFinishEvent = false;
         }
 
         // configure the animation.
@@ -31597,10 +31626,9 @@ Polymer({
                     </div>
                 </div>
             </template>
-            <!-- TODO add sponsor document link -->
-            <!-- <a href="/assets/GDG_DevFest_Istanbul_2015_Sponsor.pdf" class="block-link" target="_blank" onclick="ga('send', 'become-a-partner', 'button', 'click');">
-                <paper-button class="colorful" raised>Become a partner</paper-button>
-            </a> -->
+            <a href="/assets/DevFest_Istanbul_2015_Sponsor.pdf" class="block-link" target="_blank" onclick="ga('send', 'become-a-partner', 'button', 'click');">
+                <paper-button class="colorful" raised="">Become a sponsor</paper-button>
+            </a>
         </div>
     </template>
 </dom-module>
@@ -31652,7 +31680,7 @@ Polymer({
                 <div class="mc-field-group layout vertical">
                     <paper-input-container no-label-float="" class="text-left">
                         <label>Your email</label>
-                        <input is="iron-input" type="email" name="EMAIL" id="mce-EMAIL" autocomplete="off">
+                        <input is="iron-input" type="email" name="Fields[EmailAddress]" id="mce-EMAIL" autocomplete="off">
                         <paper-input-error>Plese enter valid email address</paper-input-error>
                     </paper-input-container>
                     <paper-button class="self-end" on-click="submitForm">Subscribe</paper-button>
@@ -31662,7 +31690,7 @@ Polymer({
                     <input type="text" name="{{ name }}" tabindex="-1">
                 </div>
                 <div class="mc-submit-group">
-                    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" style="display:none">
+                    <input type="submit" value="Subscribe" name="Command" id="mc-embedded-subscribe" style="display:none">
                 </div>
             </form>
         </div>
@@ -31821,11 +31849,11 @@ Polymer({
                         </ul>
                     </div>
                     <div class="flex link-block-wrapper">
-                        <span class="link-block-title block">For partners</span>
-                        <!-- <ul class="link-block">
-                            <li><a href="/assets/GDG_DevFest_Istanbul_2015_Sponsor.pdf" target="_blank">Partnership Proposition</a></li>
-                            <li><a href="http://bit.ly/dfua-media" target="_blank">Media Kit</a></li>
-                        </ul> -->
+                        <span class="link-block-title block">For Sponsors</span>
+                        <ul class="link-block">
+                            <li><a href="/assets/DevFest_Istanbul_2015_Sponsor.pdf" target="_blank">Sponsorship Document</a></li>
+                            <!-- <li><a href="http://bit.ly/dfua-media" target="_blank">Media Kit</a></li> -->
+                        </ul>
                     </div>
                     <div class="flex link-block-wrapper">
                         <span class="link-block-title block">Contact us</span>
@@ -31876,8 +31904,8 @@ Polymer({
         is: 'footer-block',
         ready: function() {
             // TODO add sendloop subscribe link. 
-            this.url = '';
-            this.name = '';
+            this.url = 'http://optin.sndlp.com/Dwi/X78/3b6a495d';
+            this.name = 'Fields[CustomField10]';
         },
         backToTop: function() {
             app.scrollToTop();
