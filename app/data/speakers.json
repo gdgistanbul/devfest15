@@ -29,3 +29,194 @@
     }]
 }
 ]
+[{
+    "id": 2,
+    "featured": true,
+    "name": "Hasan Hosgel",
+    "title": "Senior Android Engineer",
+    "company": "Kitchen Stories",
+    "country": "Germany",
+    "photoUrl": "../../images/people/hasan_hosgel.jpg",
+    "bio": "Hasan Hoşgel is a dedicated Android developer with more then ten years of professional programming. Since 2010 also developing Android applications. Continuous improvement of the architecture and also quality are his interest. He is also co-organizer of the “GDG Berlin Android”. Now working for Kitchen Stories and before that more then seven years for ImmobilienScout24.",
+    "tags": ["Android", "Mobile"],
+    "badges": [{
+        "name": "GDG",
+        "description": "Google Developers Group Berlin Android",
+        "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
+    }],
+    "socials": [{
+        "name": "Website",
+        "link": "http://www.tasomaniac.com/"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/alosdev"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/alosdev"
+    }]
+}
+]
+[{
+    "id": 3,
+    "featured": true,
+    "name": "Çağatay Çivici",
+    "title": "Founder",
+    "company": "PrimeTek",
+    "country": "Turkey",
+    "photoUrl": "../../images/people/cagatay_civici.jpg",
+    "bio": "Cagatay Civici is a member of JavaServer Faces Expert Group in JCP, the founder of popular PrimeFaces Project and PMC member of open source JSF implementation Apache MyFaces. He’s a recognized speaker in international conferences such as JavaOne and in many local JUG events around the world. Cagatay is also the co-author of "Definitive MyFaces" book and technical reviewer of various books on java web frameworks. He has over 10 years of experience in front end development with java.",
+    "tags": ["Web"],
+    {
+        "name": "Twitter",
+        "link": "https://twitter.com/cagataycivici"
+    },
+}
+]
+[{
+    "id": 4,
+    "featured": true,
+    "name": "Martin Liersch",
+    "title": "Android Developer",
+    "country": "Germany",
+    "photoUrl": "../../images/people/martin_liersch.jpg",
+    "bio": "He is an Android developer and works as a freelancer. Since he got his first phone running Android 2.0 he has developed a couple of dozen apps, of which some cracked the 1 million download mark. He is also a co-lead of GDG (Google Developer Group) Bodensee.",
+    "tags": ["Android", "Mobile"],
+    "badges": [{
+        "name": "GDG",
+        "description": "Google Developers Group Bodensee",
+        "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
+    }],
+    "socials": [{
+        "name": "Website",
+        "link": "#"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/Goddchen"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/Goddchen/"
+    }]
+}
+]
+[{
+    "id": 5,
+    "featured": true,
+    "name": "Huseyin Babal",
+    "title": "Full-Stack Software Engineer",
+    "company": "GittiGidiyor",
+    "country": "Turkey",
+    "photoUrl": "../../images/people/huseyin_babal.jpg",
+    "bio": "Tuts+ and Java Code Geeks author, PHP, JAVA, NodeJS developer. Docker performer, and Docker Meetup Co-organizer. Building highly scalable, realtime systems. Web Development mentor. NodeJS trainer. GDG conference speaker.",
+    "tags": ["Cloud"],
+    "socials": [{
+        "name": "Website",
+        "link": "#"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/huseyinbabal"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/huseyinbabal"
+    }]
+}
+]
+
+[{
+    "id": 6,
+    "featured": true,
+    "name": "Barış Güler",
+    "title": "Software Development Team Leader",
+    "company": "Markafoni",
+    "country": "Turkey",
+    "photoUrl": "../../images/people/baris_guler.jpg",
+    "bio": "Hi dude, I am the Front-end team leader in Markafoni using some of the latest technologies in web industry. Started the career as a back-end developer on the platform, J2EE and switched it into being an "amateur" Javascript developer. I call it like that since everyone need to see himself/herself as like it to improve abilities as well. Currently, working on design patterns and etc.",
+    "tags": ["Web"],
+    "socials": [{
+        "name": "Website",
+        "link": "#"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/hwclass"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/hwclass"
+    }]
+}
+]
+[{
+    "id": 7,
+    "featured": true,
+    "name": "Pietro Alberto Rossi",
+    "title": "Android Developer",
+    "company": "Yaapo Mobile",
+    "country": "Italy",
+    "photoUrl": "../../images/people/pietro_alberto_rossi.jpg",
+    "bio": "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way.Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Google London such as candidate Google Developer Expert in Android and Droidcon Italy. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa.",
+    "tags": ["Mobile"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Android Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/pietro-alberto-rossi"
+    },
+    "socials": [{
+        "name": "Website",
+        "link": "#"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/sprik89"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/sprik"
+    }]
+}
+]
+
+[{
+    "id": 8,
+    "featured": true,
+    "name": "Jonathan LeBlanc",
+    "title": "Head of Global Developer Advocacy",
+    "company": "Paypal",
+    "country": "France",
+    "photoUrl": "../../images/people/jonathan_leblanc.jpg",
+    "bio": "Jonathan LeBlanc is an Emmy award winning software engineer, author of the O’Reilly book "Programming Social Applications", co-author of the upcoming title “Identity and Data Security for Web Developers”, and the Head of Global Developer Advocacy for Braintree and PayPal. 
+
+Specializing in identity, auth and security, hardware to web interconnectivity, and data mining techniques, as well as open source initiatives around social engagement, Jonathan works on the development of emerging initiatives towards building a more user-centric web.",
+    "tags": ["Web"],
+    "socials": [{
+        "name": "Website",
+        "link": "#"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/jcleblanc"
+    },]
+}
+]
+
+[{
+    "id": 9,
+    "featured": true,
+    "name": "Orhan Obut",
+    "title": "Android Developer",
+    "company": "Blacklane",
+    "country": "Germany",
+    "photoUrl": "../../images/people/orhan_obut.jpg",
+    "bio": "Orhan Obut is android developer at Blacklane in Berlin. He is a big fan of open-source and constantly supports it. He has been worked on various projects from m-banking applications to m-commerce applications. He always aims to use the software principles, best practices and share the knowledge with the community.",
+    "tags": ["Mobile"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Android Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/orhan-obut"
+    },
+    "socials": [{
+        "name": "Website",
+        "link": "#"
+    }, {
+        "name": "Twitter",
+        "link": "https://twitter.com/orhanobut"
+    }, {
+        "name": "GitHub",
+        "link": "https://github.com/orhanobut"
+    }]
+}
+]
