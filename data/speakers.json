@@ -17,6 +17,7 @@
     }]
 }, {
     "id": 11,
+    "featured": true,
     "name": "Marie Schweiz",
     "title": "",
     "company": "Freelance UI / UX",
