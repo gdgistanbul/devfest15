@@ -1,18 +1,15 @@
-[
-  {
+[{
     "id": 1,
     "title": "GDG DevFest 2015 Announced",
     "titleUrl": "devfest-2015-announced",
     "posted": "Oct 15, 2015",
     "file": "2015-10-15-devfest-2015-announced.markdown",
     "brief": ""
-  },
-  {
+}, {
     "id": 2,
     "title": "Call for Speakers",
     "titleUrl": "call-for-speakers",
     "posted": "Oct 15, 2015",
     "file": "2015-10-15-call-for-papers.markdown",
     "brief": ""
-  }
-]
+}]
