@@ -1,5 +1,4 @@
-[
-  {
+[{
     "id": 1001,
     "title": "Registration & morning Coffee",
     "description": "Get your badge, coffee, enjoy talking with tech edicts around",
@@ -7,8 +6,7 @@
     "complexity": "",
     "presentation": "",
     "video": ""
-  },
-  {
+}, {
     "id": 1002,
     "title": "Lunch",
     "description": "Foooooooood!",
@@ -16,8 +14,7 @@
     "complexity": "",
     "presentation": "",
     "video": ""
-  },
-  {
+}, {
     "id": 1003,
     "title": "Coffee break",
     "description": "Coffeeeeeee!",
@@ -25,8 +22,7 @@
     "complexity": "",
     "presentation": "",
     "video": ""
-  },
-  {
+}, {
     "id": 1004,
     "title": "Morning coffee",
     "description": "Coffeeeeeee!",
@@ -34,8 +30,7 @@
     "complexity": "",
     "presentation": "",
     "video": ""
-  },
-  {
+}, {
     "id": 101,
     "title": "Material Design on Custom Views",
     "description": "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class.<br/><br/>In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance.<br/><br/>I will also talk about how to apply Material Design in Custom Views with the support of older platform versions.",
@@ -45,8 +40,142 @@
     "presentation": "",
     "video": "",
     "tags": [
+        "Mobile",
         "Android",
         "Material Design"
     ]
-  }
-]
+}, {
+    "id": 102,
+    "title": "#PERFMATTERS for Android",
+    "description": "The slogan '#PERFMATTERS' by Colt McAnlis is one of the most important statements, which an Android developer should follow. A well performing application makes the difference between a nice looking application and one, which gets successful. You, as an Android developer, have the responsibility to delight your users, so they don't feel how much work your application has to burden to fulfill the user's needs. This session will show you some easy optimizations and how to avoid glitches in the application. A lot of developers would shout, that this is premature optimization. In contrary it is preventive. With a small amount of work while developing you can avoid a lot of pitfalls. You will hopefully have a better understanding of the underlying system afterwards. During the session some tools and frameworks will be presented for helping you to fulfill your mission.",
+    "speakers": [2],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Android",
+        "PERFMATTERS"
+    ]
+}, {
+    "id": 103,
+    "title": "JSF with PrimeFaces, from Ugly Duckling to a Beautiful Swan",
+    "description": "JSF has come a long way since its initial release and managed to catch up with modern web development model. Combined with the popular PrimeFaces framework, JSF unleashes its true potential.<br><br>This session takes you on a tour of modern component based java development with server rendering featuring rich set of components, responsive design, powerful Ajax APIs, a real-time push framework with websockets, a mobile web renderkit, the dialog framework, extensive client-side validation and attractive page layouts.",
+    "speakers": [3],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "JSF",
+        "Web",
+        "Web Sockets"
+    ]
+}, {
+    "id": 104,
+    "title": "Piracy on Android",
+    "description": "Building awesome Android apps is a really really hard work that takes tons of time and dedication and also money. The worst thing that can happen to developers is that their apps get pirated and the developers that worked so hard to create them do not get honored for their hard work.<br><br>This talk will show the problems that arise from pirated apps as well as which countermeasures you, as a developer, can take to make it as difficult as possible to pirate your apps.",
+    "speakers": [4],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Android",
+        "Privacy"
+    ]
+}, {
+    "id": 105,
+    "title": "Infinite Scalable Systems with Docker, Docker Swarm, Docker Machine",
+    "description": "In this session, I will mention about Containerization technology hsitory a bit and dive into Infinite Scalable Systems with Docker, Docker Swarm, and Docker Machine with a fully working demo.  There will be sweet docker commands and configurations to setup total scalable system in 10 minutes.",
+    "speakers": [5],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Cloud",
+        "Docker"
+    ]
+}, {
+    "id": 106,
+    "title": "Design Patterns with Angular 2",
+    "description": "The main aim of this session is to talk about the most useful design patterns and technical issues in Angular 2. This session can also content some of the new attitudes like reactive programming and etc.",
+    "speakers": [6],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Web",
+        "Angular",
+        "Angular 2"
+    ]
+}, {
+    "id": 107,
+    "title": "The revolution of Material Design",
+    "description": "With the coming of Material Design in Android, how to imagine an application has changed completely. By following a few rules you can create applications with the best user experience and satisfaction.<br><br>The term Visual Continuity leads us to think of applications with visual changes no longer immediate and sudden, but handled naturally as material things. A few head movements and animations focused to ensure visual continuity that every user wants.",
+    "speakers": [7],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Android",
+        "Material Design"
+    ]
+}, {
+    "id": 108,
+    "title": "Life of APK",
+    "description": "This talk aims to explain all process that is happening behind, from creation to display an Android application.",
+    "speakers": [9],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Android"
+    ]
+}, {
+    "id": 109,
+    "title": "Animation for Interfaces",
+    "description": "While digital screens reduce our senses to only visual and listening, we can improve users’ experience and understanding through animations. I thought about how the whole team can develop animations without the knowledge of motion design. Create design and branding patterns for mobile and web with basic knowledge and tools and go strait into development.",
+    "speakers": [11],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Design",
+        "Animation"
+    ]
+}, {
+    "id": 110,
+    "title": "TO BE ANNOUNCED",
+    "description": "",
+    "speakers": [10],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        ""
+    ]
+}, {
+    "id": 111,
+    "title": "TO BE ANNOUNCED",
+    "description": "",
+    "speakers": [8],
+    "language": "en",
+    "complexity": "Beginner",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        ""
+    ]
+}]
