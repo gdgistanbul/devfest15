@@ -201,7 +201,9 @@ gulp.task('precache', function (callback) {
 
 gulp.task('gh-pages', function() {
   return gulp.src('./dist/**/*')
-    .pipe(ghPages());
+    .pipe(ghPages({
+      "remoteUrl" : "git@github.com:gdgistanbul/devfest15.git"
+    }));
 });
 
 // Clean Output Directory
