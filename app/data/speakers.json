@@ -10,9 +10,11 @@
     "tags": ["Web"],
     "socials": [{
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/jcleblanc"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/braintree_dev"
     }]
 }, {
@@ -27,18 +29,23 @@
     "tags": ["Mobile", "Design"],
     "socials": [{
         "name": "Website",
+        "icon": "link",
         "link": "http://marie-schweiz.de/"
     }, {
         "name": "Google+",
+        "icon": "app-icons:gplus",
         "link": "https://plus.google.com/u/0/+MarieSchweiz/posts"
     }, {
         "name": "Linkedin",
+        "icon": "app-icons:linkedin",
         "link": "https://de.linkedin.com/pub/marie-schweiz/41/a29/993"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/ma_rylou"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/MarieSchweiz"
     }]
 }, {
@@ -53,16 +60,20 @@
     "badges": [{
         "name": "GDG",
         "description": "Google Developers Group Berlin Android",
+        "icon": "app-icons:Android",
         "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
     }],
     "socials": [{
         "name": "Google+",
+        "icon": "app-icons:gplus",
         "link": "https://plus.google.com/+HasanHosgel"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/alosdev"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/alosdev"
     }]
 }, {
@@ -76,6 +87,7 @@
     "tags": ["Web"],
     "socials": [{
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/cagataycivici"
     }]
 }, {
@@ -89,21 +101,27 @@
     "tags": ["Web"],
     "socials": [{
         "name": "Website",
+        "icon": "link",
         "link": "https://www.codingfish.com"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/codingfish"
     }, {
         "name": "Google+",
+        "icon": "app-icons:gplus",
         "link": "https://plus.google.com/+Codingfish"
     }, {
         "name": "Instagram",
+        "icon": "app-icons:instagram",
         "link": "https://instagram.com/achimfischer"
     }, {
         "name": "Facebook",
+        "icon": "app-icons:facebook",
         "link": "http://www.facebook.com/codingfish"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/codingfish/"
     }]
 }, {
@@ -117,16 +135,20 @@
     "badges": [{
         "name": "GDG",
         "description": "Google Developers Group Bodensee",
+        "icon": "app-icons:Bodensee",
         "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
     }],
     "socials": [{
         "name": "Google+",
+        "icon": "app-icons:gplus",
         "link": "https://plus.google.com/+MartinLiersch/posts"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/Goddchen"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/Goddchen/"
     }]
 }, {
@@ -140,12 +162,15 @@
     "tags": ["Cloud"],
     "socials": [{
         "name": "StackOverflow",
+        "icon": "app-icons:stackoverflow",
         "link": "http://stackoverflow.com/users/1796105/h%C3%BCseyin-babal"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/huseyinbabal"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/huseyinbabal"
     }]
 }, {
@@ -159,12 +184,15 @@
     "tags": ["Web"],
     "socials": [{
         "name": "Linkedin",
+        "icon": "app-icons:linkedin",
         "link": "https://tr.linkedin.com/pub/barış-güler/69/18a/3b9"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/hwclass"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/hwclass"
     }]
 }, {
@@ -179,20 +207,25 @@
     "badges": [{
         "name": "GDE",
         "description": "Android Google Developer Expert",
+        "icon": "app-icons:Expert",
         "link": "https://developers.google.com/experts/people/said-tahsin-dane"
     }, {
         "name": "GDG",
         "description": "Google Developers Group Istanbul",
+        "icon": "app-icons:Istanbul",
         "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
     }],
     "socials": [{
         "name": "Website",
+        "icon": "link",
         "link": "http://www.tasomaniac.com/"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/tasomaniac"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/tasomaniac"
     }]
 }, {
@@ -208,19 +241,24 @@
     "badges": [{
         "name": "GDE",
         "description": "Android Google Developer Expert",
+        "icon": "app-icons:Expert",
         "link": "https://developers.google.com/experts/people/pietro-alberto-rossi"
     }],
     "socials": [{
         "name": "Google+",
+        "icon": "app-icons:gplus",
         "link": "https://www.google.com/+PietroAlbertoRossi"
     }, {
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/sprik89"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/sprik"
     }, {
         "name": "SlideShare",
+        "icon": "link",
         "link": "http://www.slideshare.net/sprikmeister"
     }]
 }, {
@@ -236,13 +274,16 @@
     "badges": [{
         "name": "GDE",
         "description": "Android Google Developer Expert",
+        "icon": "app-icons:Expert",
         "link": "https://developers.google.com/experts/people/orhan-obut"
     }],
     "socials": [{
         "name": "Twitter",
+        "icon": "app-icons:twitter",
         "link": "https://twitter.com/orhanobut"
     }, {
         "name": "GitHub",
+        "icon": "app-icons:github",
         "link": "https://github.com/orhanobut"
     }]
 }]
