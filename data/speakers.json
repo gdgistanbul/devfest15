@@ -98,7 +98,7 @@
     "country": "Germany",
     "photoUrl": "../../images/people/achim_fischer.jpg",
     "bio": "Android- and Rails-Developer from Fulda, Germany. Creator of the CMS Chimoora. Hobbies are traveling, photographing and spending money for mobile devices.",
-    "tags": ["Web"],
+    "tags": ["Android", "Mobile"],
     "socials": [{
         "name": "Website",
         "icon": "link",
