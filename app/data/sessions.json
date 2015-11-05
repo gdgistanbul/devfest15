@@ -156,15 +156,16 @@
     ]
 }, {
     "id": 110,
-    "title": "TO BE ANNOUNCED",
-    "description": "",
+    "title": "Android Crash Reporting with Crashlytics",
+    "description": "The session shows what Crashlytics (part of Twitter Fabric) can do to help you to find and fix problems in an Android App. Starting with a short introduction I will show how to get started with Crashlytics using Android Studio and what kind of information about problems/bugs are sent to the developer after the app has been deployed.",
     "speakers": [10],
     "language": "en",
     "complexity": "",
     "presentation": "",
     "video": "",
     "tags": [
-        ""
+        "Mobile",
+        "Android"
     ]
 }, {
     "id": 111,
