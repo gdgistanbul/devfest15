@@ -179,4 +179,46 @@
     "tags": [
         ""
     ]
+}, {
+    "id": 112,
+    "title": "Dart - a language for your next project!",
+    "description": "Dart is a language by Google which is object oriented with optional types. You can use Dart to build great apps for the client-side, server-side, command line or for mobile.<br><br>Come to listen to my story why I love Dart, why it makes me productive and how you can use it to build your next project!",
+    "speakers": [12],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Web",
+        "Dart"
+    ]
+}, {
+    "id": 113,
+    "title": "Optimizing Apps for Better Performance",
+    "description": "Performance matters to users, so it must matter to you. In this session, I will talk about how to identify and fix performance bottlenecks and using profiling tools.",
+    "speakers": [13],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Android",
+        "Performance",
+        "PERFMATTERS"
+    ]
+}, {
+    "id": 114,
+    "title": "Event Driven Programming for Android",
+    "description": " Event-Driven programming paradigm, still not widely used, where the flow of the company is determined by events such as user input, threads output or messages from components. An Event-Driven system can increase the modularity and testability of our application. In fact, the entire application is very easily decoupled, what offers a lot of benefits! Although there are a few libraries supporting event programming, Android does not natively provide us an architecture and the necessary components to implement this on a clean way. This talk will analyze the state of the art of Event-Driven programming in Android, analyze all its benefits and propose some architectures for its implementation.",
+    "speakers": [14],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Android",
+        "Architecture"
+    ]
 }]

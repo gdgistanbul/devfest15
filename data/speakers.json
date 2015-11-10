@@ -49,6 +49,42 @@
         "link": "https://github.com/MarieSchweiz"
     }]
 }, {
+    "id": 12,
+    "featured": true,
+    "name": "Jana Moudrá",
+    "title": "Co-Founder",
+    "company": "Juicymo",
+    "country": "Prague, Czech Republic",
+    "photoUrl": "../../images/people/jana_moudra.jpg",
+    "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. <br><br>Jana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
+    "tags": ["Web"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Dart Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/jana-moudr"
+    }, {
+        "name": "GDG",
+        "description": "Google Developers Group Prague",
+        "link": "https://developers.google.com/groups/chapter/117819266709320995508/"
+    }],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "http://www.moudra.net"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+JanaMoudra/posts"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://cz.linkedin.com/in/janamoudra"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/Janamou"
+    }]
+}, {
     "id": 2,
     "name": "Hasan Hosgel",
     "title": "Senior Android Engineer",
@@ -60,7 +96,6 @@
     "badges": [{
         "name": "GDG",
         "description": "Google Developers Group Berlin Android",
-        "icon": "app-icons:Android",
         "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
     }],
     "socials": [{
@@ -134,8 +169,7 @@
     "tags": ["Android", "Mobile"],
     "badges": [{
         "name": "GDG",
-        "description": "Google Developers Group Bodensee",
-        "icon": "app-icons:Bodensee",
+        "description": "Google Developers Group Bodensee",""
         "link": "https://developers.google.com/groups/chapter/102464661817600154044/"
     }],
     "socials": [{
@@ -207,12 +241,10 @@
     "badges": [{
         "name": "GDE",
         "description": "Android Google Developer Expert",
-        "icon": "app-icons:Expert",
         "link": "https://developers.google.com/experts/people/said-tahsin-dane"
     }, {
         "name": "GDG",
         "description": "Google Developers Group Istanbul",
-        "icon": "app-icons:Istanbul",
         "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
     }],
     "socials": [{
@@ -241,7 +273,6 @@
     "badges": [{
         "name": "GDE",
         "description": "Android Google Developer Expert",
-        "icon": "app-icons:Expert",
         "link": "https://developers.google.com/experts/people/pietro-alberto-rossi"
     }],
     "socials": [{
@@ -274,7 +305,6 @@
     "badges": [{
         "name": "GDE",
         "description": "Android Google Developer Expert",
-        "icon": "app-icons:Expert",
         "link": "https://developers.google.com/experts/people/orhan-obut"
     }],
     "socials": [{
@@ -285,5 +315,63 @@
         "name": "GitHub",
         "icon": "app-icons:github",
         "link": "https://github.com/orhanobut"
+    }]
+}, {
+    "id": 14,
+    "featured": true,
+    "name": "Enrique López Mañas",
+    "title": "Mobile Developer",
+    "company": "Freelance",
+    "country": "Munich, Germany",
+    "photoUrl": "../../images/people/enrique-lopez-manas.jpg",
+    "bio": "Enrique is a Google Developer Expert, and Freelance Mobile Engineer in Munich.<br><br>He spends his free time developing OpenSource code, writing articles, learning languages or taking photographies. He loves books, nature, traveling, and talking about him in third person",
+    "tags": ["Mobile"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Android Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/enrique-l-pez-ma-as"
+    }],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "http://bit.ly/EnriqueLopezManas"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/eenriquelopez"
+    }, {
+        "name": "GitHub",
+        "icon": "app-icons:github",
+        "link": "https://github.com/kikoso"
+    }]
+}, {
+    "id": 13,
+    "name": "Elif Boncuk",
+    "title": "Software Specialist",
+    "company": "Garanti Teknoloji",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/elif_boncuk.jpg",
+    "bio": "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company. <br>Tech Enthusiast, Blogger, Traveller, Photographer",
+    "tags": ["Mobile"],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "https://elifboncuk.wordpress.com/"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+ElifBoncuk"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/pub/elif-boncuk/28/a87/855"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/elifbon_"
+    }, {
+        "name": "Website",
+        "icon": "link",
+        "link": "https://medium.com/@elifbon"
     }]
 }]
