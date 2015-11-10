@@ -221,4 +221,17 @@
         "Android",
         "Architecture"
     ]
+}, {
+    "id": 115,
+    "title": "Google WebRTC on Mobile",
+    "description": "WebRTC is a new milestone in the evolution of the web. This technology allows us to quickly create real-time communication applications. Altough its main target is web browsers, WebRTC is becoming a popular real time communication technology used on mobile. By using WebRTC you can develop your own peer-to-peer video chat in a short amount of time. Also, WebRTC is very flexible, you can make calls to another networks that using offer/answer model, for example SIP protocol. In this presentation you can gain in-depth insights about how to implement WebRTC on iOS and Android mobile devices for a native experience.",
+    "speakers": [15],
+    "language": "en",
+    "complexity": "Intermediate",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Web",
+        "WebRTC"
+    ]
 }]
