@@ -1,8 +1,44 @@
 [{
-    "title": "General sponsor",
+    "title": "Festival Sponsor",
+    "logos": [{
+        "name": "Gram Games",
+        "url": "http://gram.gs/",
+        "logoUrl": "../images/partners/GramGames.jpg"
+    }]
+}, {
+    "title": "General Sponsor",
     "logos": [{
         "name": "Google",
         "url": "https://www.google.com.tr/intl/en/about/",
         "logoUrl": "../images/partners/google.svg"
+    }]
+}, {
+    "title": "Sponsors",
+    "logos": [{
+        "name": "Robotistan",
+        "url": "https://www.robotistan.com/",
+        "logoUrl": "../images/partners/Robotistan.svg"
+    }]
+}, {
+    "title": "Partners",
+    "logos": [{
+        "name": "ARA Sokak Istanbul",
+        "url": "http://www.arasokakistanbul.com/",
+        "logoUrl": "../images/partners/arasokak.jpg"
+    }, {
+        "name": "BAU Yazılım ve Bilişim Klübü",
+        "url": "http://yazilimbilisim.org/",
+        "logoUrl": "../images/partners/Buyabi.svg"
+    }]
+}, {
+    "title": "With the support of",
+    "logos": [{
+        "name": "IDR Solutions",
+        "url": "http://www.vaadin.com/",
+        "logoUrl": "../images/partners/idr.jpg"
+    }, {
+        "name": "Netbeans",
+        "url": "https://netbeans.org/",
+        "logoUrl": "../images/partners/netbeans.png"
     }]
 }]
