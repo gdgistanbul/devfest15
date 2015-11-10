@@ -40,5 +40,9 @@
         "name": "Netbeans",
         "url": "https://netbeans.org/",
         "logoUrl": "../images/partners/netbeans.png"
+    }, {
+        "name": "3Durak",
+        "url": "http://www.3durak.com/",
+        "logoUrl": "../images/partners/3Durak.png"
     }]
 }]
