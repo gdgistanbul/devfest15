@@ -21326,6 +21326,13 @@ module.exports = Array.isArray || function (arr) {
         //     document.querySelector('#blog').closePost();
         // });
 
+        page('/sponsors', function() {
+            trackPageview('/sponsors');
+            app.route = 'home';
+            var pricetable = document.querySelector('#sponsors');
+            app.smoothScroll(pricetable, 0);
+        });
+
         page('/speakers', function() {
             trackPageview('/speakers');
             app.route = 'speakers';
@@ -32360,6 +32367,11 @@ subject to an additional IP rights grant found at http://polymer.github.io/PATEN
                                 Speakers
                             </a>
                         </paper-tab>
+                        <paper-tab class="text-u-c" link="">
+                            <a data-route="sponsors" href="#!/sponsors" class="nav-link horizontal center-center layout">
+                                Sponsors
+                            </a>
+                        </paper-tab>
                         <paper-tab class="text-u-c">
                             <a data-route="contact" href="#!/contact" class="nav-link horizontal center-center layout">Contact</a>
                         </paper-tab>
@@ -32778,7 +32790,7 @@ Polymer({
                 width: 210px;
             }
         </style>
-        <div class="container relative layout vertical center">
+        <div id="sponsors" class="container relative layout vertical center">
             <content></content>
             <template is="dom-repeat" items="[[logosBlocks]]" as="block">
                 <div class="logos-block-wrapper">
@@ -35164,11 +35176,12 @@ Polymer({
         <div id="pricetable" class="container wrap relative layout vertical text-center">
             <h4 class="heading">Tickets</h4>
             <div class="price-block-wrapper flex layout vertical-horizontal">
-                <div class="price-block flex text-center">
+                <div class="price-block flex text-center sold-out">
                     <span class="ticket-name block">Normal Ticket</span>
                     <span class="price">10</span>
                     <span class="currency">TL</span>
                     <span class="additional-info block">*Before November 29</span>
+                    <div class="fit layout vertical center-center sold-out-text"><span>Sold Out</span></div>
                 </div>
             </div>
             <span class="details">Tickets grant access to all conference sections, coffee breaks and lunch.</span>
