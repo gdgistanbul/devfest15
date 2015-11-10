@@ -85,6 +85,28 @@
         "link": "https://twitter.com/Janamou"
     }]
 }, {
+    "id": 17,
+    "name": "Şahin Yalabık",
+    "title": "Game Designer",
+    "company": "Gram Games",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/sahin_yalabik.jpg",
+    "bio": "I'm a game designer, currently working at Gram Games since June 2015.<br>My previous job experiences/titles were:<br>-Game Designer / Producer at Peak Games (2011-2014)<br>-Boardgame Designer / Founder at Oyun Mühendisi (2007-2011)<br><br>So far, I've worked at 3 f2p titles, each one installed on 1 million+  devices. I also have 2 published boardgame titles currently available in the market.",
+    "tags": ["Mobile", "Game"],
+    "socials": [{
+        "name": "Facebook",
+        "icon": "app-icons:facebook",
+        "link": "https://www.facebook.com/sahinyalabik"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/in/sahin-yalabik-94941957"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/SahinYalabik"
+    }]
+}, {
     "id": 2,
     "name": "Hasan Hosgel",
     "title": "Senior Android Engineer",
@@ -274,7 +296,7 @@
     "name": "Hüseyin Babal",
     "title": "Full-Stack Software Engineer",
     "company": "GittiGidiyor",
-    "country": "Turkey",
+    "country": "Istanbul",
     "photoUrl": "../../images/people/huseyin_babal.jpg",
     "bio": "Tuts+ and Java Code Geeks author, PHP, JAVA, NodeJS developer. Docker performer, and Docker Meetup Co-organizer. Building highly scalable, realtime systems. Web Development mentor. NodeJS trainer. GDG conference speaker.",
     "tags": ["Cloud"],
@@ -318,7 +340,7 @@
     "name": "Buşra Deniz",
     "title": "Mobile Software Developer",
     "company": "Netas",
-    "country": "Turkey",
+    "country": "Istanbul",
     "photoUrl": "../../images/people/busra_deniz.jpg",
     "bio": "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies, especially Scrum.<br/><br/>She is a Certificated Scrum Master and mobile engineer in Netas. Currently, working on an international project that provides iOS and Android SDKs those allow other programmers to develop their applications, which are capable of voice call, video call and IM using WebRTC.<br/><br/>Besides being co-organizer in two different community, Google Developer Group and WomenTechMakers İstanbul, she enjoys voluntarily organizing and speaking at developer events. Also, she believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives. She always loves being part of a team and thinks that individual commitment to a team is the key to success. As a result of that she is a big fan of agile methodologies including Scrum, TDD and XP. Besides agile, she is also got excited almost every new technology in mobile platforms. And, as a software engineer, her goal is delivering software with high quality and robust architecture. In order to achieve that she highly relies on unit testing and mobile test automation.",
     "tags": ["Web", "WEB RTC"],
@@ -353,7 +375,7 @@
     "name": "Said Tahsin Dane",
     "title": "Android Developer",
     "company": "Google Developers Expert",
-    "country": "Turkey",
+    "country": "Istanbul",
     "photoUrl": "../../images/people/said_tahsine_dane.jpg",
     "bio": "GDE (Google Developer Expert) for Android. Experience with Android (since Cupcake), Google Glass, Android Wear, and (even on!) iOS. Very passionate developer who tries to live on the bleeding edge of technology. Also very interested in mobile UX. <br/><br/>Active member and organizer at GDG Istanbul enjoying organizing various conferences and hackathons. Also a part of GDG[X] - a GDG related open-source organization.",
     "tags": ["Android", "Material Design"],
@@ -408,5 +430,31 @@
         "name": "Website",
         "icon": "link",
         "link": "https://medium.com/@elifbon"
+    }]
+}, {
+    "id": 16,
+    "name": "Mark Stephens",
+    "title": "",
+    "company": "IDRsolutions",
+    "country": "",
+    "photoUrl": "../../images/people/mark_stephens.jpg",
+    "bio": "Mark Stephens has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup IDRsolutions in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as it combines coding with castles, churches, mosques and cisterns.",
+    "tags": ["Java"],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "https://www.facebook.com/idrsolutions/"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+MarkStephens174/about"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://www.linkedin.com/in/mnstephens"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/javaPDF"
     }]
 }]
