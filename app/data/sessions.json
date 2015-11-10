@@ -234,4 +234,32 @@
         "Web",
         "WebRTC"
     ]
+}, {
+    "id": 116,
+    "title": " Developing, testing and writing better Java and non-Java applications with the NetBeans IDE/Business of Software 101",
+    "description": "2 sessions for the price of 1!<br><br>A step by step guide to all the features NetBeans offers both Java and non-Java developers to create,edit, test and ship code (30 mins)<br><br>Business of Software 101 (10 minute essential guide to the software industry in 2015 and how to make the most of your strengths in it)",
+    "speakers": [16],
+    "language": "en",
+    "complexity": "Intermediate",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Java",
+        "NetBeans"
+    ]
+}, {
+    "id": 117,
+    "title": "Developing Ideas in f2p Environment",
+    "description": "How to develop an idea into a game:<br>-Know your environment<br>-Stages and layers of games<br>-Value of failing<br>-Defining MVP<br>-Prototypes<br>-Usertesting<br>-Fake/Soft Launches",
+    "speakers": [17],
+    "language": "en",
+    "complexity": "Intermediate",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Game",
+        "Prototyping",
+        "Design"
+    ]
 }]
