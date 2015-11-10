@@ -37,6 +37,13 @@
         //     document.querySelector('#blog').closePost();
         // });
 
+        page('/sponsors', function() {
+            trackPageview('/sponsors');
+            app.route = 'home';
+            var pricetable = document.querySelector('#sponsors');
+            app.smoothScroll(pricetable, 0);
+        });
+
         page('/speakers', function() {
             trackPageview('/speakers');
             app.route = 'speakers';
