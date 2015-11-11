@@ -1,5 +1,7 @@
 [{
     "title": "Festival Sponsor",
+    "height": "120",
+    "width": "280",
     "logos": [{
         "name": "Gram Games",
         "url": "http://gram.gs/",
@@ -32,6 +34,8 @@
     }]
 }, {
     "title": "With the support of",
+    "height": "60",
+    "width": "140",
     "logos": [{
         "name": "IDR Solutions",
         "url": "http://www.vaadin.com/",
