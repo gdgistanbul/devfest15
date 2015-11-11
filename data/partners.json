@@ -44,5 +44,13 @@
         "name": "3Durak",
         "url": "http://www.3durak.com/",
         "logoUrl": "../images/partners/3Durak.png"
+    }, {
+        "name": "Indir",
+        "url": "http://www.indir.com/",
+        "logoUrl": "../images/partners/indir.png"
+    }, {
+        "name": "Webmasto",
+        "url": "http://www.webmasto.com",
+        "logoUrl": "../images/partners/webmasto.jpg"
     }]
 }]
