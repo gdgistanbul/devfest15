@@ -32798,7 +32798,7 @@ Polymer({
                     <div class="wrap layout horizontal center-center">
                         <template is="dom-repeat" items="[[block.logos]]" as="logo">
                             <a class="logo-item" href="[[logo.url]]" title="[[logo.name]]" target="_blank">
-                                <iron-image class="logo-img flex" src="[[logo.logoUrl]]" preload="" fade="" sizing="contain"></iron-image>
+                                <iron-image class="logo-img flex" src="[[logo.logoUrl]]" preload="" fade="" sizing="contain" height$="{{block.height}}" width$="{{block.width}}"></iron-image>
                             </a>
                         </template>
                     </div>
