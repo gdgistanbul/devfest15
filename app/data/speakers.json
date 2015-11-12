@@ -1,21 +1,38 @@
 [{
-    "id": 8,
+    "id": 12,
     "featured": true,
-    "name": "Jonathan LeBlanc",
-    "title": "Head of Global Developer Advocacy",
-    "company": "Paypal",
-    "country": "France",
-    "photoUrl": "../../images/people/jonathan_leblanc.jpg",
-    "bio": "Jonathan LeBlanc is an Emmy award winning software engineer, author of the O’Reilly book \"Programming Social Applications\", co-author of the upcoming title \"Identity and Data Security for Web Developers\", and the Head of Global Developer Advocacy for Braintree and PayPal.<br><br>Specializing in identity, auth and security, hardware to web interconnectivity, and data mining techniques, as well as open source initiatives around social engagement, Jonathan works on the development of emerging initiatives towards building a more user-centric web.",
+    "name": "Jana Moudrá",
+    "title": "Co-Founder",
+    "company": "Juicymo",
+    "country": "Prague, Czech Republic",
+    "photoUrl": "../../images/people/jana_moudra.jpg",
+    "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. <br/><br/>Jana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
     "tags": ["Web"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Dart Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/jana-moudr"
+    }, {
+        "name": "GDG",
+        "description": "Google Developers Group Prague",
+        "link": "https://developers.google.com/groups/chapter/117819266709320995508/"
+    }],
     "socials": [{
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/jcleblanc"
+        "name": "Website",
+        "icon": "link",
+        "link": "http://www.moudra.net"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+JanaMoudra/posts"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://cz.linkedin.com/in/janamoudra"
     }, {
         "name": "Twitter",
         "icon": "app-icons:twitter",
-        "link": "https://twitter.com/braintree_dev"
+        "link": "https://twitter.com/Janamou"
     }]
 }, {
     "id": 11,
@@ -49,49 +66,68 @@
         "link": "https://github.com/MarieSchweiz"
     }]
 }, {
-    "id": 12,
+    "id": 8,
     "featured": true,
-    "name": "Jana Moudrá",
-    "title": "Co-Founder",
-    "company": "Juicymo",
-    "country": "Prague, Czech Republic",
-    "photoUrl": "../../images/people/jana_moudra.jpg",
-    "bio": "GDE (Google Developer Expert) for Dart. Jana is a passionate developer and modern web and mobile technology evangelist. She is an event organiser for GDG Prague, where she arranges events for developers including public lectures, code labs and hackathons – covering a wide range of subjects including technologies Dart or Android. She loves to help other developers and spread the knowledge about these technologies. <br><br>Jana co-founded a company called Juicymo, where she works on juicy apps and products and teaches at Unicorn College.",
+    "name": "Jonathan LeBlanc",
+    "title": "Head of Global Developer Advocacy",
+    "company": "Paypal",
+    "country": "France",
+    "photoUrl": "../../images/people/jonathan_leblanc.jpg",
+    "bio": "Jonathan LeBlanc is an Emmy award winning software engineer, author of the O’Reilly book \"Programming Social Applications\", co-author of the upcoming title \"Identity and Data Security for Web Developers\", and the Head of Global Developer Advocacy for Braintree and PayPal.<br/><br/>Specializing in identity, auth and security, hardware to web interconnectivity, and data mining techniques, as well as open source initiatives around social engagement, Jonathan works on the development of emerging initiatives towards building a more user-centric web.",
     "tags": ["Web"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Dart Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/jana-moudr"
-    }, {
-        "name": "GDG",
-        "description": "Google Developers Group Prague",
-        "link": "https://developers.google.com/groups/chapter/117819266709320995508/"
-    }],
     "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "http://www.moudra.net"
-    }, {
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/u/0/+JanaMoudra/posts"
-    }, {
-        "name": "Linkedin",
-        "icon": "app-icons:linkedin",
-        "link": "https://cz.linkedin.com/in/janamoudra"
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/jcleblanc"
     }, {
         "name": "Twitter",
         "icon": "app-icons:twitter",
-        "link": "https://twitter.com/Janamou"
+        "link": "https://twitter.com/braintree_dev"
+    }]
+}, {
+    "id": 15,
+    "name": "Buşra Deniz",
+    "title": "Mobile Software Developer",
+    "company": "GDG Istanbul",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/busra_deniz.jpg",
+    "bio": "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies, especially Scrum.<br/><br/>She is a Certificated Scrum Master and mobile engineer in Netas. Currently, working on an international project that provides iOS and Android SDKs those allow other programmers to develop their applications, which are capable of voice call, video call and IM using WebRTC.<br/><br/>Besides being co-organizer in two different community, Google Developer Group and WomenTechMakers İstanbul, she enjoys voluntarily organizing and speaking at developer events. Also, she believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives. She always loves being part of a team and thinks that individual commitment to a team is the key to success. As a result of that she is a big fan of agile methodologies including Scrum, TDD and XP. Besides agile, she is also got excited almost every new technology in mobile platforms. And, as a software engineer, her goal is delivering software with high quality and robust architecture. In order to achieve that she highly relies on unit testing and mobile test automation.",
+    "tags": ["Web", "WEB RTC"],
+    "badges": [{
+        "name": "GDG",
+        "description": "Google Developers Group Istanbul",
+        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+    }, {
+        "name": "WTM",
+        "description": "Women Tech Makers Istanbul",
+        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+    }],
+    "socials": [{
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/107161766252148547668"
+    }, {
+        "name": "LinkedIn",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/in/busradeniz"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/busradeniz"
+    }, {
+        "name": "Blog",
+        "icon": "link",
+        "link": "http://www.busradeniz.com/"
     }]
 }, {
     "id": 17,
+    "featured": true,
     "name": "Şahin Yalabık",
     "title": "Game Designer",
     "company": "Gram Games",
     "country": "Istanbul",
     "photoUrl": "../../images/people/sahin_yalabik.jpg",
-    "bio": "I'm a game designer, currently working at Gram Games since June 2015.<br>My previous job experiences/titles were:<br>-Game Designer / Producer at Peak Games (2011-2014)<br>-Boardgame Designer / Founder at Oyun Mühendisi (2007-2011)<br><br>So far, I've worked at 3 f2p titles, each one installed on 1 million+  devices. I also have 2 published boardgame titles currently available in the market.",
+    "bio": "I'm a game designer, currently working at Gram Games since June 2015.<br/>My previous job experiences/titles were:<br/>-Game Designer / Producer at Peak Games (2011-2014)<br/>-Boardgame Designer / Founder at Oyun Mühendisi (2007-2011)<br/><br/>So far, I've worked at 3 f2p titles, each one installed on 1 million+  devices. I also have 2 published boardgame titles currently available in the market.",
     "tags": ["Mobile", "Game"],
     "socials": [{
         "name": "Facebook",
@@ -105,6 +141,122 @@
         "name": "Twitter",
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/SahinYalabik"
+    }]
+}, {
+    "id": 18,
+    "featured": true,
+    "name": "Murat Gürel",
+    "title": "Game Developer",
+    "company": "Gram Games",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/murat_gurel.jpg",
+    "bio": "Currently works at Gram Games as a Game Developer. He has been developing mobile apps and games professionally for 3 years. Previous works include native apps and cross-platform games with Unity. Graduated from University of Surrey, England with a degree in Electronics & Computer Engineering.",
+    "tags": ["Mobile", "Game"],
+    "socials": [{
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/muratgurel"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/in/mrtgurel"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/muratgurel"
+    }]
+}, {
+    "id": 13,
+    "name": "Elif Boncuk",
+    "title": "Software Specialist",
+    "company": "Garanti Teknoloji",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/elif_boncuk.jpg",
+    "bio": "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company. <br/>Tech Enthusiast, Blogger, Traveller, Photographer",
+    "tags": ["Mobile"],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "https://elifboncuk.wordpress.com/"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+ElifBoncuk"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/pub/elif-boncuk/28/a87/855"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/elifbon_"
+    }, {
+        "name": "Website",
+        "icon": "link",
+        "link": "https://medium.com/@elifbon"
+    }]
+}, {
+    "id": 20,
+    "featured": true,
+    "name": "Hallade Xavier",
+    "title": "Developer Evangelist",
+    "company": "Intel",
+    "country": "France",
+    "photoUrl": "../../images/people/hallade_xavier.jpg",
+    "bio": "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies. He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
+    "tags": ["Android", "NDK"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Android Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/xavier-hallade"
+    }],
+    "socials": [{
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/106834066322753191683/posts"
+    }, {
+        "name": "LinkedIn",
+        "icon": "app-icons:linkedin",
+        "link": "https://www.linkedin.com/in/xavierhallade"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/ph0b"
+    }, {
+        "name": "Website",
+        "icon": "link",
+        "link": "http://ph0b.com/"
+    }]
+}, {
+    "id": 1,
+    "name": "Said Tahsin Dane",
+    "title": "Android Developer",
+    "company": "GDG Istanbul",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/said_tahsine_dane.jpg",
+    "bio": "GDE (Google Developer Expert) for Android. Experience with Android (since Cupcake), Google Glass, Android Wear, and (even on!) iOS. Very passionate developer who tries to live on the bleeding edge of technology. Also very interested in mobile UX. <br/><br/>Active member and organizer at GDG Istanbul enjoying organizing various conferences and hackathons. Also a part of GDG[X] - a GDG related open-source organization.",
+    "tags": ["Android", "Material Design"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Android Google Developer Expert",
+        "link": "https://developers.google.com/experts/people/said-tahsin-dane"
+    }, {
+        "name": "GDG",
+        "description": "Google Developers Group Istanbul",
+        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+    }],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "http://www.tasomaniac.com/"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/tasomaniac"
+    }, {
+        "name": "GitHub",
+        "icon": "app-icons:github",
+        "link": "https://github.com/tasomaniac"
     }]
 }, {
     "id": 2,
@@ -135,7 +287,6 @@
     }]
 }, {
     "id": 7,
-    "featured": true,
     "name": "Pietro Alberto Rossi",
     "title": "Android Developer",
     "company": "Yaapo Mobile",
@@ -197,7 +348,7 @@
     "company": "Freelance",
     "country": "Munich, Germany",
     "photoUrl": "../../images/people/enrique_lopez_manas.jpg",
-    "bio": "Enrique is a Google Developer Expert, and Freelance Mobile Engineer in Munich.<br><br>He spends his free time developing OpenSource code, writing articles, learning languages or taking photographies. He loves books, nature, traveling, and talking about him in third person",
+    "bio": "Enrique is a Google Developer Expert, and Freelance Mobile Engineer in Munich.<br/><br/>He spends his free time developing OpenSource code, writing articles, learning languages or taking photographies. He loves books, nature, traveling, and talking about him in third person",
     "tags": ["Mobile"],
     "badges": [{
         "name": "GDE",
@@ -336,102 +487,6 @@
         "link": "https://github.com/hwclass"
     }]
 }, {
-    "id": 15,
-    "name": "Buşra Deniz",
-    "title": "Mobile Software Developer",
-    "company": "Netas",
-    "country": "Istanbul",
-    "photoUrl": "../../images/people/busra_deniz.jpg",
-    "bio": "Busra Deniz is a Software Engineer who has a keen interest in developing high-quality software by applying agile principles and methodologies, especially Scrum.<br/><br/>She is a Certificated Scrum Master and mobile engineer in Netas. Currently, working on an international project that provides iOS and Android SDKs those allow other programmers to develop their applications, which are capable of voice call, video call and IM using WebRTC.<br/><br/>Besides being co-organizer in two different community, Google Developer Group and WomenTechMakers İstanbul, she enjoys voluntarily organizing and speaking at developer events. Also, she believes in sharing knowledge and collaborating with the other people through these events, will come hand in hand with innovation and new perspectives. She always loves being part of a team and thinks that individual commitment to a team is the key to success. As a result of that she is a big fan of agile methodologies including Scrum, TDD and XP. Besides agile, she is also got excited almost every new technology in mobile platforms. And, as a software engineer, her goal is delivering software with high quality and robust architecture. In order to achieve that she highly relies on unit testing and mobile test automation.",
-    "tags": ["Web", "WEB RTC"],
-    "badges": [{
-        "name": "GDG",
-        "description": "Google Developers Group Istanbul",
-        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
-    }, {
-        "name": "WTM",
-        "description": "Women Tech Makers Istanbul",
-        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
-    }],
-    "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/u/0/107161766252148547668"
-    }, {
-        "name": "LinkedIn",
-        "icon": "app-icons:linkedin",
-        "link": "https://tr.linkedin.com/in/busradeniz"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/busradeniz"
-    }, {
-        "name": "Blog",
-        "icon": "link",
-        "link": "http://www.busradeniz.com/"
-    }]
-}, {
-    "id": 1,
-    "name": "Said Tahsin Dane",
-    "title": "Android Developer",
-    "company": "Google Developers Expert",
-    "country": "Istanbul",
-    "photoUrl": "../../images/people/said_tahsine_dane.jpg",
-    "bio": "GDE (Google Developer Expert) for Android. Experience with Android (since Cupcake), Google Glass, Android Wear, and (even on!) iOS. Very passionate developer who tries to live on the bleeding edge of technology. Also very interested in mobile UX. <br/><br/>Active member and organizer at GDG Istanbul enjoying organizing various conferences and hackathons. Also a part of GDG[X] - a GDG related open-source organization.",
-    "tags": ["Android", "Material Design"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/said-tahsin-dane"
-    }, {
-        "name": "GDG",
-        "description": "Google Developers Group Istanbul",
-        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
-    }],
-    "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "http://www.tasomaniac.com/"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/tasomaniac"
-    }, {
-        "name": "GitHub",
-        "icon": "app-icons:github",
-        "link": "https://github.com/tasomaniac"
-    }]
-}, {
-    "id": 13,
-    "name": "Elif Boncuk",
-    "title": "Software Specialist",
-    "company": "Garanti Teknoloji",
-    "country": "Istanbul",
-    "photoUrl": "../../images/people/elif_boncuk.jpg",
-    "bio": "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company. <br>Tech Enthusiast, Blogger, Traveller, Photographer",
-    "tags": ["Mobile"],
-    "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "https://elifboncuk.wordpress.com/"
-    }, {
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/u/0/+ElifBoncuk"
-    }, {
-        "name": "Linkedin",
-        "icon": "app-icons:linkedin",
-        "link": "https://tr.linkedin.com/pub/elif-boncuk/28/a87/855"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/elifbon_"
-    }, {
-        "name": "Website",
-        "icon": "link",
-        "link": "https://medium.com/@elifbon"
-    }]
-}, {
     "id": 16,
     "name": "Mark Stephens",
     "title": "",
@@ -456,5 +511,66 @@
         "name": "Twitter",
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/javaPDF"
+    }]
+}, {
+    "id": 21,
+    "name": "Ihor Dvoretskyi",
+    "title": "Operation Engineer",
+    "company": "Mirantis Inc.",
+    "country": "Ukraine",
+    "photoUrl": "../../images/people/ihor_dvoretskyi.jpg",
+    "bio": "Ihor is an Operations Engineer at Mirantis Inc - the #1 Pure Play OpenStack Company, with a huge experience working in IT companies, where he was responsible for a couple of projects, tightly bound to Cloud computing and *nix systems. Ihor is deeply interested in OpenStack cloud platform, other Cloud technologies and Open Source projects. Also, Ihor is a big fan of Google and Google products.<br/><br/>Apart from work, Ihor is also interested in other branches of IT technology and starts diving into Robotics.",
+    "tags": ["Cloud", "Kubernetes", "Docker"],
+    "socials": [{
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/+IgorDvoretskyi/"
+    }, {
+        "name": "LinkedIn",
+        "icon": "app-icons:linkedin",
+        "link": "https://ua.linkedin.com/in/idvoretskyi"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/idvoretskyi"
+    }]
+}, {
+    "id": 19,
+    "name": "Resul Caner Yıldırım",
+    "title": "UX Designer",
+    "company": "GDG Istanbul",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/resul_caner_yildirim.jpg",
+    "bio": "Basically a technology geek. Focused on the marketing and design of mobile applications. Passionate about marketing, UX, IoT and Android. Since 2012, he has been writing technology news and articles on protechman.net<br/>Co-organiser of the Google Developer Group Istanbul & Chief Problem Solver of Mobil Istanbul. Speaks at conferences about marketing and UX. Also known as Protechman.",
+    "tags": ["IoT", "UX"],
+    "badges": [{
+        "name": "GDG",
+        "description": "Google Developers Group Istanbul",
+        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+    }],
+    "socials": [{
+        "name": "Facebook",
+        "icon": "app-icons:facebook",
+        "link": "https://www.facebook.com/r.caner.yildirim"
+    }, {
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/protechman"
+    }, {
+        "name": "Website",
+        "icon": "link",
+        "link": "https://dribbble.com/protechman"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+RCanerYıldırım/"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://www.linkedin.com/in/protechman"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/protechman"
     }]
 }]
