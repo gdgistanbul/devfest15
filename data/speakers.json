@@ -1,35 +1,4 @@
 [{
-    "id": 11,
-    "featured": true,
-    "name": "Marie Schweiz",
-    "title": "",
-    "company": "Freelance UI / UX",
-    "country": "Munih, Germany",
-    "photoUrl": "../../images/people/marie_schweiz.jpg",
-    "bio": "Marie was one of the first freelance designers for android, back in 2011. With her unique specialty she spoke at several conferences such as Mobile design Meetup Oslo, DevFest Istanbul, Campus London, UXcamp Europe, droidcon Italy, Webexpo Prague from 2011 until now. As senior mobile UX designer, her help influenced huge tech giants and startups to improve their mobile experience and relationship with their developers.",
-    "tags": ["Mobile", "Design"],
-    "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "http://marie-schweiz.de/"
-    }, {
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/u/0/+MarieSchweiz/posts"
-    }, {
-        "name": "Linkedin",
-        "icon": "app-icons:linkedin",
-        "link": "https://de.linkedin.com/pub/marie-schweiz/41/a29/993"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/ma_rylou"
-    }, {
-        "name": "GitHub",
-        "icon": "app-icons:github",
-        "link": "https://github.com/MarieSchweiz"
-    }]
-}, {
     "id": 12,
     "featured": true,
     "name": "Jana Moudrá",
@@ -64,6 +33,37 @@
         "name": "Twitter",
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/Janamou"
+    }]
+}, {
+    "id": 11,
+    "featured": true,
+    "name": "Marie Schweiz",
+    "title": "",
+    "company": "Freelance UI / UX",
+    "country": "Munih, Germany",
+    "photoUrl": "../../images/people/marie_schweiz.jpg",
+    "bio": "Marie was one of the first freelance designers for android, back in 2011. With her unique specialty she spoke at several conferences such as Mobile design Meetup Oslo, DevFest Istanbul, Campus London, UXcamp Europe, droidcon Italy, Webexpo Prague from 2011 until now. As senior mobile UX designer, her help influenced huge tech giants and startups to improve their mobile experience and relationship with their developers.",
+    "tags": ["Mobile", "Design"],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "http://marie-schweiz.de/"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+MarieSchweiz/posts"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://de.linkedin.com/pub/marie-schweiz/41/a29/993"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/ma_rylou"
+    }, {
+        "name": "GitHub",
+        "icon": "app-icons:github",
+        "link": "https://github.com/MarieSchweiz"
     }]
 }, {
     "id": 8,
@@ -121,6 +121,7 @@
     }]
 }, {
     "id": 17,
+    "featured": true,
     "name": "Şahin Yalabık",
     "title": "Game Designer",
     "company": "Gram Games",
@@ -143,6 +144,7 @@
     }]
 }, {
     "id": 18,
+    "featured": true,
     "name": "Murat Gürel",
     "title": "Game Developer",
     "company": "Gram Games",
@@ -285,7 +287,6 @@
     }]
 }, {
     "id": 7,
-    "featured": true,
     "name": "Pietro Alberto Rossi",
     "title": "Android Developer",
     "company": "Yaapo Mobile",
