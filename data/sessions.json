@@ -61,7 +61,7 @@
 }, {
     "id": 103,
     "title": "JSF with PrimeFaces, from Ugly Duckling to a Beautiful Swan",
-    "description": "JSF has come a long way since its initial release and managed to catch up with modern web development model. Combined with the popular PrimeFaces framework, JSF unleashes its true potential.<br><br>This session takes you on a tour of modern component based java development with server rendering featuring rich set of components, responsive design, powerful Ajax APIs, a real-time push framework with websockets, a mobile web renderkit, the dialog framework, extensive client-side validation and attractive page layouts.",
+    "description": "JSF has come a long way since its initial release and managed to catch up with modern web development model. Combined with the popular PrimeFaces framework, JSF unleashes its true potential.<br/><br/>This session takes you on a tour of modern component based java development with server rendering featuring rich set of components, responsive design, powerful Ajax APIs, a real-time push framework with websockets, a mobile web renderkit, the dialog framework, extensive client-side validation and attractive page layouts.",
     "speakers": [3],
     "language": "en",
     "complexity": "",
@@ -75,7 +75,7 @@
 }, {
     "id": 104,
     "title": "Piracy on Android",
-    "description": "Building awesome Android apps is a really really hard work that takes tons of time and dedication and also money. The worst thing that can happen to developers is that their apps get pirated and the developers that worked so hard to create them do not get honored for their hard work.<br><br>This talk will show the problems that arise from pirated apps as well as which countermeasures you, as a developer, can take to make it as difficult as possible to pirate your apps.",
+    "description": "Building awesome Android apps is a really really hard work that takes tons of time and dedication and also money. The worst thing that can happen to developers is that their apps get pirated and the developers that worked so hard to create them do not get honored for their hard work.<br/><br/>This talk will show the problems that arise from pirated apps as well as which countermeasures you, as a developer, can take to make it as difficult as possible to pirate your apps.",
     "speakers": [4],
     "language": "en",
     "complexity": "",
@@ -116,7 +116,7 @@
 }, {
     "id": 107,
     "title": "The revolution of Material Design",
-    "description": "With the coming of Material Design in Android, how to imagine an application has changed completely. By following a few rules you can create applications with the best user experience and satisfaction.<br><br>The term Visual Continuity leads us to think of applications with visual changes no longer immediate and sudden, but handled naturally as material things. A few head movements and animations focused to ensure visual continuity that every user wants.",
+    "description": "With the coming of Material Design in Android, how to imagine an application has changed completely. By following a few rules you can create applications with the best user experience and satisfaction.<br/><br/>The term Visual Continuity leads us to think of applications with visual changes no longer immediate and sudden, but handled naturally as material things. A few head movements and animations focused to ensure visual continuity that every user wants.",
     "speakers": [7],
     "language": "en",
     "complexity": "",
@@ -151,6 +151,7 @@
     "video": "",
     "tags": [
         "Mobile",
+        "UX",
         "Design",
         "Animation"
     ]
@@ -182,7 +183,7 @@
 }, {
     "id": 112,
     "title": "Dart - a language for your next project!",
-    "description": "Dart is a language by Google which is object oriented with optional types. You can use Dart to build great apps for the client-side, server-side, command line or for mobile.<br><br>Come to listen to my story why I love Dart, why it makes me productive and how you can use it to build your next project!",
+    "description": "Dart is a language by Google which is object oriented with optional types. You can use Dart to build great apps for the client-side, server-side, command line or for mobile.<br/><br/>Come to listen to my story why I love Dart, why it makes me productive and how you can use it to build your next project!",
     "speakers": [12],
     "language": "en",
     "complexity": "",
@@ -237,10 +238,10 @@
 }, {
     "id": 116,
     "title": " Developing, testing and writing better Java and non-Java applications with the NetBeans IDE/Business of Software 101",
-    "description": "2 sessions for the price of 1!<br><br>A step by step guide to all the features NetBeans offers both Java and non-Java developers to create,edit, test and ship code (30 mins)<br><br>Business of Software 101 (10 minute essential guide to the software industry in 2015 and how to make the most of your strengths in it)",
+    "description": "2 sessions for the price of 1!<br/><br/>A step by step guide to all the features NetBeans offers both Java and non-Java developers to create,edit, test and ship code (30 mins)<br/><br/>Business of Software 101 (10 minute essential guide to the software industry in 2015 and how to make the most of your strengths in it)",
     "speakers": [16],
     "language": "en",
-    "complexity": "Intermediate",
+    "complexity": "",
     "presentation": "",
     "video": "",
     "tags": [
@@ -250,10 +251,10 @@
 }, {
     "id": 117,
     "title": "Developing Ideas in f2p Environment",
-    "description": "How to develop an idea into a game:<br>-Know your environment<br>-Stages and layers of games<br>-Value of failing<br>-Defining MVP<br>-Prototypes<br>-Usertesting<br>-Fake/Soft Launches",
+    "description": "How to develop an idea into a game:<br/>-Know your environment<br/>-Stages and layers of games<br/>-Value of failing<br/>-Defining MVP<br/>-Prototypes<br/>-Usertesting<br/>-Fake/Soft Launches",
     "speakers": [17],
     "language": "tr",
-    "complexity": "Intermediate",
+    "complexity": "",
     "presentation": "",
     "video": "",
     "tags": [
@@ -261,5 +262,60 @@
         "Game",
         "Prototyping",
         "Design"
+    ]
+}, {
+    "id": 118,
+    "title": "Releasing Your Unity Game: How to Turn it into a Product",
+    "description": "Okay, so you’ve made your game. Now what? Although it might seem you’ve completed 99% percent of your project, it’s the last 1% that takes the most of your time. Have you added analytics to your game? Have you integrated sharing through any social networks? What about in-app purchases?<br/><br/>In this talk, I will cover the bits and pieces required to turn your game into a product, which include adding analytics, social integrations, in-app purchasing, localisation, data persistence and remote & local notifications to your Unity Engine powered game.",
+    "speakers": [18],
+    "language": "tr",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "Game",
+        "Unity"
+    ]
+}, {
+    "id": 119,
+    "title": "Android Brillo and Daily Life UX",
+    "description": "In this presentation we will talk about daily use of IoT devices and the Android based operating system Brillo.<br/><br/>We are in the early stages in the creation of Internet of Things. And the examples I will provide just a glimpse into what is possible when you combine sensors, actuators, and networked intelligence to create more fun and easy lifestyle.",
+    "speakers": [19],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Mobile",
+        "IoT",
+        "UX"
+    ]
+}, {
+    "id": 120,
+    "title": "TO BE ANNOUNCED",
+    "description": "",
+    "speakers": [20],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Android",
+        "RealSense",
+        "Project Tango"
+    ]
+}, {
+    "id": 121,
+    "title": "Deploying and managing container-based applications with OpenStack and Kubernetes",
+    "description": "Linux containers have recently taken the industry by storm, offering a lightweight, powerful, portable and upgradeable alternative to traditional app deployment on a host OS/VM.<br/><br/>Managing Docker containers on OpenStack VMs is possible today with Mirantis OpenStack, with the Murano Application Catalog radically simplifying the job of placing multiple application containers in an environment, installing apps in them from public resources such as Docker Hub, and deploying the environment on VMs for use. For managing containers at large scales, Mirantis and Google are now working jointly to enable Murano to configure and deploy Kubernetes — the Google-initiated open source project to build and refine cluster orchestration for containers on infrastructure. <br/><br/>In this presentation the core concepts of OpenStack, Docker and Kubernetes will be described, as well as demonstrated abilities to deploy containerized applications, managed by Kubernetes on above of OpenStack cloud.",
+    "speakers": [21],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Cloud",
+        "Kubernetes"
     ]
 }]
