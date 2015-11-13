@@ -199,11 +199,11 @@
     "id": 20,
     "featured": true,
     "name": "Hallade Xavier",
-    "title": "Developer Evangelist",
+    "title": "Application Engineer",
     "company": "Intel",
     "country": "France",
     "photoUrl": "../../images/people/hallade_xavier.jpg",
-    "bio": "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies. He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
+    "bio": "Xavier is application engineer at Intel Software and Services Group, where he works on a wide range of Android frameworks, libraries and applications.<br/><br/>He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
     "tags": ["Android", "NDK"],
     "badges": [{
         "name": "GDE",

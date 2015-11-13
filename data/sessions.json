@@ -293,8 +293,8 @@
     ]
 }, {
     "id": 120,
-    "title": "TO BE ANNOUNCED",
-    "description": "",
+    "title": "Introduction to Google Project Tango and Intel RealSense technologies and usages",
+    "description": "RealSense and Tango are projects which objective is to bring complete motion and space understanding to apps, by using specific cameras integrated into devices.<br/><br/>You'll discover what are the different SDKs and cameras, how to use these that are becoming available to consumers really soon, and see what amazing products and new usages other developers have already started to work on.",
     "speakers": [20],
     "language": "en",
     "complexity": "",
