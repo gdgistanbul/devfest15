@@ -649,7 +649,7 @@
     "company": "Kripton",
     "country": "Çanakkale",
     "photoUrl": "../../images/people/gulsah_kose.jpg",
-    "bio": "Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği mezunuyum. Özgür yazılım geliştiricisi ve gönüllüsüyüm. LibreOffice pebble bileşeninin sorumlusuyum. pebble-remote (www.pebble-remote.com) projesinin yazarıyım.",
+    "bio": "Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği mezunuyum. Özgür yazılım geliştiricisi ve gönüllüsüyüm. LibreOffice pebble bileşeninin sorumlusuyum. pebble-remote (http://www.pebbleremote.com) projesinin yazarıyım.",
     "tags": ["Open Source"],
     "socials": [{
         "name": "Github",
@@ -658,7 +658,7 @@
     }, {
         "name": "Website",
         "icon": "link",
-        "link": "www.gulsahkose.com"
+        "link": "http://www.gulsahkose.com"
     }, {
         "name": "Google+",
         "icon": "app-icons:gplus",
