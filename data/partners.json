@@ -56,5 +56,9 @@
         "name": "Webmasto",
         "url": "http://www.webmasto.com",
         "logoUrl": "../images/partners/webmasto.jpg"
+    }, {
+        "name": "Mirantis",
+        "url": "https://www.mirantis.com",
+        "logoUrl": "../images/partners/Mirantis.jpg"
     }]
 }]
