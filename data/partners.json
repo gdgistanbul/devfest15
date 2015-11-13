@@ -33,6 +33,13 @@
         "logoUrl": "../images/partners/Buyabi.svg"
     }]
 }, {
+    "title": "Transportation Sponsor",
+    "logos": [{
+        "name": "UBER",
+        "url": "https://www.uber.com/cities/istanbul",
+        "logoUrl": "../images/partners/uber.png"
+    }]
+}, {
     "title": "With the support of",
     "height": "60",
     "width": "140",
