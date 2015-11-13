@@ -362,8 +362,8 @@
     ]
 }, {
     "id": 124,
-    "title": "TO BE ANNOUNCED",
-    "description": "",
+    "title": "Libreoffice'e Katkı Süreci ve Deneyimlerimiz",
+    "description": "*Libreoffice için katkı süreci, projeye dahil olmak için gerekenler, sürüm takip sistemi, hata takip sistemi ve kod gözden geçirme sistemi gibi araçların kullanımı anlatılacaktır.<br/><br/>LibreOffice uno slotlarının nasıl yazıldığı ve araç çubuklarına nasıl eklendiği gösterilecektir.<br/><br/>LibreOffice test yazma aşamaları ve kullanılan test araçları ile LibreOffice için unit test, otomasyon testi ve manuel testlerinin yazılımı anlatılacaktır.<br/><br/>Konuşmacılar katkı verdikleri alanlarından ve bu süreçte nasıl deneyimler edindiklerinden bahsedeceklerdir.",
     "speakers": [24, 25, 26, 27],
     "language": "tr",
     "complexity": "",
