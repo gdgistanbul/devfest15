@@ -166,6 +166,56 @@
         "link": "https://twitter.com/muratgurel"
     }]
 }, {
+    "id": 22,
+    "featured": true,
+    "name": "Geertjan Wielenga",
+    "title": "Product Manager",
+    "company": "NetBeans",
+    "country": "",
+    "photoUrl": "../../images/people/geertjan_wielenga.jpg",
+    "bio": "Geertjan is a product manager working on JavaScript and Java in Oracle, together with tools provided by NetBeans IDE.",
+    "tags": ["Java", "JavaScript", "NetBeans"],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "blogs.oracle.com/geertjan"
+    }, {
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/geertjanwielenga"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/geertjanw"
+    }]
+}, {
+    "id": 16,
+    "featured": true,
+    "name": "Mark Stephens",
+    "title": "",
+    "company": "IDRsolutions",
+    "country": "",
+    "photoUrl": "../../images/people/mark_stephens.jpg",
+    "bio": "Mark Stephens has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup IDRsolutions in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as it combines coding with castles, churches, mosques and cisterns.",
+    "tags": ["Java"],
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "https://www.facebook.com/idrsolutions/"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+MarkStephens174/about"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://www.linkedin.com/in/mnstephens"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/javaPDF"
+    }]
+}, {
     "id": 13,
     "name": "Elif Boncuk",
     "title": "Software Specialist",
@@ -199,11 +249,11 @@
     "id": 20,
     "featured": true,
     "name": "Hallade Xavier",
-    "title": "Developer Evangelist",
+    "title": "Application Engineer",
     "company": "Intel",
     "country": "France",
     "photoUrl": "../../images/people/hallade_xavier.jpg",
-    "bio": "Xavier Hallade is a software engineer at Intel Software and Services Group in Paris, France, where he works on a wide range of Android frameworks, libraries and applications, helping developers to improve their support for new hardware and technologies. He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
+    "bio": "Xavier is application engineer at Intel Software and Services Group, where he works on a wide range of Android frameworks, libraries and applications.<br/><br/>He's a Google Developer Expert in Android, with a focus on the Android NDK and Android TV.",
     "tags": ["Android", "NDK"],
     "badges": [{
         "name": "GDE",
@@ -443,6 +493,33 @@
         "link": "https://github.com/Goddchen/"
     }]
 }, {
+    "id": 23,
+    "name": "Salim Kayabaşı",
+    "title": "Web Developer",
+    "company": "GDG Istanbul",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/salim_kayabasi.jpg",
+    "bio": "",
+    "tags": ["Web", "Polymer"],
+    "badges": [{
+        "name": "GDE",
+        "description": "Web Google Developer Expert",
+        "link": "https://developers.google.com/experts/"
+    }, {
+        "name": "GDG",
+        "description": "Google Developers Group Istanbul",
+        "link": "https://developers.google.com/groups/chapter/100514812580249787371/"
+    }],
+    "socials": [{
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/salimkayabasi"
+    }, {
+        "name": "GitHub",
+        "icon": "app-icons:github",
+        "link": "https://github.com/salimkayabasi"
+    }]
+}, {
     "id": 5,
     "name": "Hüseyin Babal",
     "title": "Full-Stack Software Engineer",
@@ -485,32 +562,6 @@
         "name": "GitHub",
         "icon": "app-icons:github",
         "link": "https://github.com/hwclass"
-    }]
-}, {
-    "id": 16,
-    "name": "Mark Stephens",
-    "title": "",
-    "company": "IDRsolutions",
-    "country": "",
-    "photoUrl": "../../images/people/mark_stephens.jpg",
-    "bio": "Mark Stephens has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup IDRsolutions in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as it combines coding with castles, churches, mosques and cisterns.",
-    "tags": ["Java"],
-    "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "https://www.facebook.com/idrsolutions/"
-    }, {
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/u/0/+MarkStephens174/about"
-    }, {
-        "name": "Linkedin",
-        "icon": "app-icons:linkedin",
-        "link": "https://www.linkedin.com/in/mnstephens"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/javaPDF"
     }]
 }, {
     "id": 21,
@@ -572,5 +623,128 @@
         "name": "Twitter",
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/protechman"
+    }]
+}, {
+    "id": 28,
+    "name": "Burak Aydın",
+    "title": "",
+    "company": "GDG Ankara",
+    "country": "Ankara",
+    "photoUrl": "../../images/people/burak_aydin.jpg",
+    "bio": "Burak is one of the founder of 4pps mobile development company. He works as backend and android developer for two years. He also tries some hacks on quadcopters, arduino, raspberry pi and ble devices for create innovative products. Deep in curiosity, coffee lover, cycler.",
+    "tags": ["Web"],
+    "badges": [{
+        "name": "GDG",
+        "description": "Google Developers Group Ankara",
+        "link": "https://developers.google.com/groups/chapter/114568591151316164517/"
+    }],
+    "socials": [{
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/burakaydn"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/burakaydn"
+    }]
+}, {
+    "id": 24,
+    "name": "Gülşah Köse",
+    "title": "",
+    "company": "Kripton",
+    "country": "Çanakkale",
+    "photoUrl": "../../images/people/gulsah_kose.jpg",
+    "bio": "Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği mezunuyum. Özgür yazılım geliştiricisi ve gönüllüsüyüm. LibreOffice pebble bileşeninin sorumlusuyum. pebble-remote (www.pebble-remote.com) projesinin yazarıyım.",
+    "tags": ["Open Source"],
+    "socials": [{
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/gulsahkose"
+    }, {
+        "name": "Website",
+        "icon": "link",
+        "link": "www.gulsahkose.com"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+GülşahKöseC"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/gulsahkse"
+    }]
+}, {
+    "id": 25,
+    "name": "Aybuke Ozdemir",
+    "title": "",
+    "company": "Çanakkale 18 Mart Üniversitesi",
+    "country": "Çanakkale",
+    "photoUrl": "../../images/people/aybuke_ozdemir.jpg",
+    "bio": "Çanakkale 18 Mart Üniversitesi son sınıf öğrencisiyim.",
+    "tags": ["Open Source"],
+    "socials": [{
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/aybuke"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/+aybukeozdemir"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/in/aybukeozdemir"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/aybuke_ozdemir"
+    }]
+}, {
+    "id": 26,
+    "name": "Kader Tarlan",
+    "title": "",
+    "company": "Çanakkale 18 Mart Üniversitesi",
+    "country": "Çanakkale",
+    "photoUrl": "../../images/people/kader_tarlan.jpg",
+    "bio": "",
+    "tags": ["Open Source"],
+    "socials": [{
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/kadertarlan"
+    }, {
+        "name": "Website",
+        "icon": "link",
+        "link": "http://kadertarlan.github.io/"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/u/0/102326333048256990419"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://www.linkedin.com/pub/kader-tarlan/63/373/395"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/KdrTrln"
+    }]
+}, {
+    "id": 24,
+    "name": "Yeliz Taneroğlu",
+    "title": "",
+    "company": "Çanakkale 18 Mart Üniversitesi",
+    "country": "Çanakkale",
+    "photoUrl": "../../images/people/yeliz_taneroglu.jpg",
+    "bio": "",
+    "tags": ["Open Source"],
+    "socials": [{
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/101491250557255880038/posts"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/yeliztaneroglu"
     }]
 }]

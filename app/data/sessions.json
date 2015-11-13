@@ -70,7 +70,8 @@
     "tags": [
         "JSF",
         "Web",
-        "Web Sockets"
+        "Web Sockets",
+        "NetBeans"
     ]
 }, {
     "id": 104,
@@ -293,8 +294,8 @@
     ]
 }, {
     "id": 120,
-    "title": "TO BE ANNOUNCED",
-    "description": "",
+    "title": "Introduction to Google Project Tango and Intel RealSense technologies and usages",
+    "description": "RealSense and Tango are projects which objective is to bring complete motion and space understanding to apps, by using specific cameras integrated into devices.<br/><br/>You'll discover what are the different SDKs and cameras, how to use these that are becoming available to consumers really soon, and see what amazing products and new usages other developers have already started to work on.",
     "speakers": [20],
     "language": "en",
     "complexity": "",
@@ -317,5 +318,59 @@
     "tags": [
         "Cloud",
         "Kubernetes"
+    ]
+}, {
+    "id": 128,
+    "title": "Building REST API with Go Lang",
+    "description": "Go is very popular programming language nowadays. A lot of startup choose to use it cause of concurrency, easy deploy and other features. In this talk we will look out json in go, standard packages and 3rd party packages for web apps.",
+    "speakers": [28],
+    "language": "tr",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Web",
+        "Go"
+    ]
+}, {
+    "id": 122,
+    "title": "Surviving Life in the JavaScript Ecosystem",
+    "description": "After many years of Java, many people are now using JavaScript. The JavaScript ecosystem is volatile, the frameworks and libraries are changing all the time. In this session, you'll learn about some brand new and excellent solutions for surviving life in the JavaScript ecosystem.",
+    "speakers": [22],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Web",
+        "Java",
+        "JavaScript"
+    ]
+}, {
+    "id": 123,
+    "title": "TO BE ANNOUNCED",
+    "description": "",
+    "speakers": [23],
+    "language": "en",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Web",
+        "Polymer",
+        "Service Workers"
+    ]
+}, {
+    "id": 124,
+    "title": "TO BE ANNOUNCED",
+    "description": "",
+    "speakers": [24, 25, 26, 27],
+    "language": "tr",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Open Source",
+        "LibreOffice"
     ]
 }]
