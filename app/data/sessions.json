@@ -171,15 +171,17 @@
     ]
 }, {
     "id": 108,
-    "title": "TO BE ANNOUNCED",
-    "description": "",
+    "title": "Secure payments over mixed communication media",
+    "description": "Web enabled systems are now an integral part of everything we interact with, from microelectronics to voice enabled hardware, from text messages and phone calls to email, and really we’re just limited by our imaginations as to what we can connect. As we explore vast new realms of communication over mixed digital media, we have to ask ourselves how we protect our critical data within potential unsecure environments. Going beyond that, how do we protect some of our more critical data, payment information, in this same realm.<br/><br/>As we look at a multitude of different environments, we’ll be exploring how to secure user identity and payment information through the communication channels, covering topics like:<br/>* Securing identity and payment data through voice commands or text.<br/>* Tokenization and encryption security.<br/>* Techniques for triggering secure transactions from communications media.<br/><br/>At the end of the session, we’ll have a stronger understanding of proper techniques for working with new communication media sources, and see how we can apply fundamental security precepts in potentially insecure environments.",
     "speakers": [8],
     "language": "en",
     "complexity": "",
     "presentation": "",
     "video": "",
     "tags": [
-        ""
+        "Mobile",
+        "Android",
+        "Security"
     ]
 }, {
     "id": 112,
