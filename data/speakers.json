@@ -75,14 +75,22 @@
     "photoUrl": "../../images/people/jonathan_leblanc.jpg",
     "bio": "Jonathan LeBlanc is an Emmy award winning software engineer, author of the O’Reilly book \"Programming Social Applications\", co-author of the upcoming title \"Identity and Data Security for Web Developers\", and the Head of Global Developer Advocacy for Braintree and PayPal.<br/><br/>Specializing in identity, auth and security, hardware to web interconnectivity, and data mining techniques, as well as open source initiatives around social engagement, Jonathan works on the development of emerging initiatives towards building a more user-centric web.",
     "tags": ["Web"],
-    "socials": [{
+    "socials": [ {
         "name": "Twitter",
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/jcleblanc"
     }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/braintree_dev"
+        "name": "Website",
+        "icon": "link",
+        "link": "http://lanyrd.com/profile/jcleblanc/"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://www.linkedin.com/in/jcleblanc"
+    }, {
+        "name": "GitHub",
+        "icon": "app-icons:github",
+        "link": "https://github.com/jcleblanc"
     }]
 }, {
     "id": 15,
