@@ -129,7 +129,7 @@
         "Material Design"
     ]
 }, {
-    "id": 108,
+    "id": 109,
     "title": "Life of APK",
     "description": "This talk aims to explain all process that is happening behind, from creation to display an Android application.",
     "speakers": [9],
@@ -142,7 +142,7 @@
         "Android"
     ]
 }, {
-    "id": 109,
+    "id": 111,
     "title": "Animation for Interfaces",
     "description": "While digital screens reduce our senses to only visual and listening, we can improve users’ experience and understanding through animations. I thought about how the whole team can develop animations without the knowledge of motion design. Create design and branding patterns for mobile and web with basic knowledge and tools and go strait into development.",
     "speakers": [11],
@@ -170,7 +170,7 @@
         "Android"
     ]
 }, {
-    "id": 111,
+    "id": 108,
     "title": "TO BE ANNOUNCED",
     "description": "",
     "speakers": [8],
