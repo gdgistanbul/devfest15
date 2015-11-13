@@ -344,11 +344,6 @@
     "photoUrl": "../../images/people/pietro_alberto_rossi.jpg",
     "bio": "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way.Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Google London such as candidate Google Developer Expert in Android and Droidcon Italy. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa.",
     "tags": ["Mobile"],
-    "badges": [{
-        "name": "GDE",
-        "description": "Android Google Developer Expert",
-        "link": "https://developers.google.com/experts/people/pietro-alberto-rossi"
-    }],
     "socials": [{
         "name": "Google+",
         "icon": "app-icons:gplus",
