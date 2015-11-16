@@ -15,6 +15,13 @@
         "logoUrl": "../images/partners/google.svg"
     }]
 }, {
+    "title": "Gold Sponsors",
+    "logos": [{
+        "name": "IBM",
+        "url": "https://www.ibm.com",
+        "logoUrl": "../images/partners/IBM.jpg"
+    }]
+}, {
     "title": "Sponsors",
     "logos": [{
         "name": "Robotistan",
