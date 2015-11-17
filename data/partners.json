@@ -20,6 +20,10 @@
         "name": "IBM",
         "url": "https://www.ibm.com",
         "logoUrl": "../images/partners/IBM.jpg"
+    }, {
+        "name": "Garanti",
+        "url": "https://www.garanti.com.tr",
+        "logoUrl": "../images/partners/Garanti.svg"
     }]
 }, {
     "title": "Sponsors",
