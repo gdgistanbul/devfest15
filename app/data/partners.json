@@ -78,5 +78,9 @@
         "name": "Mirantis",
         "url": "https://www.mirantis.com",
         "logoUrl": "../images/partners/Mirantis.jpg"
+    }, {
+        "name": "The BEY'S Tasarım atölyesi",
+        "url": "http://www.thebeys.com",
+        "logoUrl": "../images/partners/thebeys.jpg"
     }]
 }]
