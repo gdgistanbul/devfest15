@@ -733,7 +733,7 @@
         "link": "https://twitter.com/KdrTrln"
     }]
 }, {
-    "id": 24,
+    "id": 27,
     "name": "Yeliz Taneroğlu",
     "title": "",
     "company": "Çanakkale 18 Mart Üniversitesi",
@@ -750,4 +750,13 @@
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/yeliztaneroglu"
     }]
+}, {
+    "id": 29,
+    "name": "Gökhan Yılmaz",
+    "title": "IT Specialist",
+    "company": "IBM",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/gokhan_yilmaz.jpg",
+    "bio": "Gökhan Yılmaz, Fırat Üniversitesinden mezun olduktan sonra IBM'de Bilişim Teknolojileri  Uzmanı  olarak Web Ara Katman Uygulamaları ekibinde görev almıştır. Gökhan, öğrencilik hayatında IBM Next-Generation Topluluğunda üniversite temsilcisi olarak görev almış ve birçok IBM Teknolojisi ile çalışma fırsatı bulmuştur. 2014 yılında IBM Yazılım Akademisi'ne katılarak Türkiye birincisi seçilmiş ve Prag'da düzenlenen IBM Best Student Recognition Event'e katılma hakkı kazanmıştır. Gökhan, ayrıca Bluemix ile ilgili Türkçe kaynaklar oluşturmakta ve bunları gokhanyilmaz.name adresinde okurları ile paylaşmaktadır.",
+    "tags": ["Cloud"]
 }]
