@@ -224,6 +224,24 @@
         "link": "https://twitter.com/javaPDF"
     }]
 }, {
+    "id": 29,
+    "name": "Gökhan Yılmaz",
+    "title": "IT Specialist",
+    "company": "IBM",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/gokhan_yilmaz.jpg",
+    "bio": "Gökhan Yılmaz, Fırat Üniversitesinden mezun olduktan sonra IBM'de Bilişim Teknolojileri  Uzmanı  olarak Web Ara Katman Uygulamaları ekibinde görev almıştır. Gökhan, öğrencilik hayatında IBM Next-Generation Topluluğunda üniversite temsilcisi olarak görev almış ve birçok IBM Teknolojisi ile çalışma fırsatı bulmuştur. 2014 yılında IBM Yazılım Akademisi'ne katılarak Türkiye birincisi seçilmiş ve Prag'da düzenlenen IBM Best Student Recognition Event'e katılma hakkı kazanmıştır. Gökhan, ayrıca Bluemix ile ilgili Türkçe kaynaklar oluşturmakta ve bunları gokhanyilmaz.name adresinde okurları ile paylaşmaktadır.",
+    "tags": ["Cloud"]
+}, {
+    "id": 30,
+    "name": "Burak Çakıl",
+    "title": "Cloud Platform Solutions Consultant",
+    "company": "IBM",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/burak_cakil.jpg",
+    "bio": "Burak is a Cloud Technical Consultant  working in Ecosystem Development, IBM Turkey. He is specialized in IBM Bluemix, which is a Cloud PaaS platform. He has 9 years of IT experience. Previously, he worked as a Middleware Specialist for 5 years. He is experienced in Java EE application development, and middleware such as IBM WebSphere, Oracle Weblogic, Tomcat etc. He has a BSc degree from Computer Engineering, Yildiz Technical University, and he is continuing for his MSc degree from the same department.",
+    "tags": ["Cloud"]
+}, {
     "id": 13,
     "name": "Elif Boncuk",
     "title": "Software Specialist",
@@ -342,32 +360,6 @@
         "name": "GitHub",
         "icon": "app-icons:github",
         "link": "https://github.com/alosdev"
-    }]
-}, {
-    "id": 7,
-    "name": "Pietro Alberto Rossi",
-    "title": "Android Developer",
-    "company": "Yaapo Mobile",
-    "country": "Italy",
-    "photoUrl": "../../images/people/pietro_alberto_rossi.jpg",
-    "bio": "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way.Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Google London such as candidate Google Developer Expert in Android and Droidcon Italy. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa.",
-    "tags": ["Mobile"],
-    "socials": [{
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://www.google.com/+PietroAlbertoRossi"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/sprik89"
-    }, {
-        "name": "GitHub",
-        "icon": "app-icons:github",
-        "link": "https://github.com/sprik"
-    }, {
-        "name": "SlideShare",
-        "icon": "link",
-        "link": "http://www.slideshare.net/sprikmeister"
     }]
 }, {
     "id": 9,
@@ -494,6 +486,32 @@
         "name": "GitHub",
         "icon": "app-icons:github",
         "link": "https://github.com/Goddchen/"
+    }]
+}, {
+    "id": 7,
+    "name": "Pietro Alberto Rossi",
+    "title": "Android Developer",
+    "company": "Yaapo Mobile",
+    "country": "Italy",
+    "photoUrl": "../../images/people/pietro_alberto_rossi.jpg",
+    "bio": "Programmer since 2000, starting with QBasic and most recently Android development and learning C, Assembler, C++, HTML, PHP and Java along the way.Working in a startup Mosaicoon S.P.A., my strength is Android programming and problem solving. I've been an invited speaker at Rome Codemotion 2013, Madrid Codemotion 2013, Google London such as candidate Google Developer Expert in Android and Droidcon Italy. I also been a speaker in other national events such as Linux, Day Linux Meeting, Java Day in Palermo and Ragusa.",
+    "tags": ["Mobile"],
+    "socials": [{
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://www.google.com/+PietroAlbertoRossi"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/sprik89"
+    }, {
+        "name": "GitHub",
+        "icon": "app-icons:github",
+        "link": "https://github.com/sprik"
+    }, {
+        "name": "SlideShare",
+        "icon": "link",
+        "link": "http://www.slideshare.net/sprikmeister"
     }]
 }, {
     "id": 23,
@@ -750,13 +768,4 @@
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/yeliztaneroglu"
     }]
-}, {
-    "id": 29,
-    "name": "Gökhan Yılmaz",
-    "title": "IT Specialist",
-    "company": "IBM",
-    "country": "Istanbul",
-    "photoUrl": "../../images/people/gokhan_yilmaz.jpg",
-    "bio": "Gökhan Yılmaz, Fırat Üniversitesinden mezun olduktan sonra IBM'de Bilişim Teknolojileri  Uzmanı  olarak Web Ara Katman Uygulamaları ekibinde görev almıştır. Gökhan, öğrencilik hayatında IBM Next-Generation Topluluğunda üniversite temsilcisi olarak görev almış ve birçok IBM Teknolojisi ile çalışma fırsatı bulmuştur. 2014 yılında IBM Yazılım Akademisi'ne katılarak Türkiye birincisi seçilmiş ve Prag'da düzenlenen IBM Best Student Recognition Event'e katılma hakkı kazanmıştır. Gökhan, ayrıca Bluemix ile ilgili Türkçe kaynaklar oluşturmakta ve bunları gokhanyilmaz.name adresinde okurları ile paylaşmaktadır.",
-    "tags": ["Cloud"]
 }]
