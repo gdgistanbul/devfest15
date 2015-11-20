@@ -375,4 +375,30 @@
         "Open Source",
         "LibreOffice"
     ]
+}, {
+    "id": 129,
+    "title": "IBM Bluemix Workshop",
+    "description": "Uygulamalarınızı en kısa sürede Cloud ortamında yayınlayın ",
+    "speakers": [129],
+    "language": "TR",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Cloud",
+        "Bluemix"
+    ]
+}, {
+    "id": 130,
+    "title": "IBM Bluemix üzerinde Docker Container Yönetimi",
+    "description": "Containerization, günümüzde uygulamalara taşınabilirlik ve hafiflik özelliğini getiren, uygulamaları modülerleştiren en güçlü teknolojilerden biri, ve geliştiricilerin işini çok kolaylaştıran bir yapıya sahip. Bu sunumda Bulut teknolojisi ile docker entegrasyonundan, ve IBM Bluemix ile bu entegrasyonun getirdiği avantajlardan bahsedeceğim.",
+    "speakers": [130],
+    "language": "TR",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Cloud",
+        "Bluemix"
+    ]
 }]
