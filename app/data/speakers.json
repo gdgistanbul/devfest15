@@ -768,4 +768,24 @@
         "icon": "app-icons:twitter",
         "link": "https://twitter.com/yeliztaneroglu"
     }]
+}, {
+    "id": 31,
+    "name": "Filip  Maelbrancke",
+    "title": "Android Developer",
+    "company": "AppFoundry",
+    "country": "Belgium",
+    "photoUrl": "../../images/people/filip_maelbrancke.jpg",
+    "bio": "Filip Maelbrancke is a software consultant at AppFoundry in Belgium. He mainly works on Android projects in the financial services, telecom and media sectors as a developer and tech lead.",
+    "tags": ["Android"],
+    "socials": []
+}, {
+    "id": 32,
+    "name": "GDG",
+    "title": "",
+    "company": "",
+    "country": "All Over The World",
+    "photoUrl": "../../images/people/yeliz_taneroglu.jpg",
+    "bio": "",
+    "tags": ["GDG"],
+    "socials": []
 }]
