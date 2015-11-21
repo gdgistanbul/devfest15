@@ -35,6 +35,14 @@
         "name": "Dikeyeksen",
         "url": "http://dikeyeksen.com",
         "logoUrl": "../images/partners/dikeyeksen.jpg"
+    }, {
+        "name": "Abaküs",
+        "url": "http://www.abakuskitap.com/",
+        "logoUrl": "../images/partners/abakus.png"
+    }, {
+        "name": "Seçkin",
+        "url": "https://www.seckin.com.tr/",
+        "logoUrl": "../images/partners/seckin.jpg"
     }]
 }, {
     "title": "Partners",
