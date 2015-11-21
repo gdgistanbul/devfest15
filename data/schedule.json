@@ -1,187 +1,101 @@
 [{
-    "date": "2015-10-23",
-    "dateReadable": "October 23",
+    "date": "2015-11-29",
+    "dateReadable": "November 29",
     "tracks": [{
-        "title": "Expo area"
+        "title": "Fazıl Say"
     }, {
-        "title": "Conference hall"
+        "title": "A 101"
     }, {
-        "title": "Community hall"
+        "title": "A 102"
+    }, {
+        "title": "B Cep"
     }],
     "timeslots": [{
-        "startTime": "09:00",
-        "endTime": "10:00",
+        "startTime": "08:30",
+        "endTime": "09:30",
         "sessions": [
             [1001]
         ]
     }, {
-        "startTime": "10:00",
-        "endTime": "10:15",
+        "startTime": "09:00",
+        "endTime": "10:00",
         "sessions": [
             [1005]
         ]
     }, {
-        "startTime": "10:15",
-        "endTime": "11:00",
+        "startTime": "10:00",
+        "endTime": "10:45",
         "sessions": [
-            [125]
-        ]
-    }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
-        "sessions": [
-            [109],
-            [111],
-            [118, 126]
-        ]
-    }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
-        "sessions": [
-            [115],
-            [117],
-            [129, 128]
-        ]
-    }, {
-        "startTime": "12:30",
-        "endTime": "14:00",
-        "sessions": [
-            [1002]
-        ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
-        "sessions": [
-            [116],
-            [133],
-            [127]
-        ]
-    }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
-        "sessions": [
-            [113],
-            [124],
-            [139]
-        ]
-    }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "sessions": [
-            [1003]
-        ]
-    }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
-        "sessions": [
-            [101],
-            [106],
-            [138]
-        ]
-    }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
-        "sessions": [
-            [114],
-            [120],
-            [137, 132]
-        ]
-    }, {
-        "startTime": "22:00",
-        "endTime": "02:00",
-        "sessions": [
-            [1006]
-        ]
-    }]
-}, {
-    "date": "2015-10-24",
-    "dateReadable": "October 24",
-    "tracks": [{
-        "title": "Expo area"
-    }, {
-        "title": "Conference hall"
-    }, {
-        "title": "Community hall"
-    }],
-    "timeslots": [{
-        "startTime": "09:30",
-        "endTime": "10:10",
-        "sessions": [
-            [1004]
-        ]
-    }, {
-        "startTime": "10:10",
-        "endTime": "10:50",
-        "sessions": [
-            [110],
-            [103],
-            [121]
-        ]
-    }, {
-        "startTime": "11:00",
-        "endTime": "11:40",
-        "sessions": [
-            [107],
-            [134],
-            [121]
-        ]
-    }, {
-        "startTime": "11:50",
-        "endTime": "12:30",
-        "sessions": [
-            [112],
-            [135],
-            [121]
-        ]
-    }, {
-        "startTime": "12:30",
-        "endTime": "14:00",
-        "sessions": [
-            [1002]
-        ]
-    }, {
-        "startTime": "14:00",
-        "endTime": "14:40",
-        "sessions": [
-            [102],
-            [122],
-            [131]
-        ]
-    }, {
-        "startTime": "14:50",
-        "endTime": "15:30",
-        "sessions": [
-            [104],
-            [123],
-            [131]
-        ]
-    }, {
-        "startTime": "15:30",
-        "endTime": "16:00",
-        "sessions": [
-            [1003]
-        ]
-    }, {
-        "startTime": "16:00",
-        "endTime": "16:40",
-        "sessions": [
-            [105],
             [108],
-            [130]
+            [107],
+            [112],
+            [101]
         ]
     }, {
-        "startTime": "16:50",
-        "endTime": "17:30",
+        "startTime": "11:00",
+        "endTime": "11:45",
         "sessions": [
-            [119],
-            [140],
-            [130]
+            [117],
+            [114],
+            [103],
+            [115]
         ]
     }, {
-        "startTime": "17:40",
+        "startTime": "12:00",
+        "endTime": "12:45",
+        "sessions": [
+            [122],
+            [110],
+            [118],
+            [123]
+        ]
+    }, {
+        "startTime": "12:45",
+        "endTime": "14:00",
+        "sessions": [
+            [1002]
+        ]
+    }, {
+        "startTime": "14:00",
+        "endTime": "14:45",
+        "sessions": [
+            [111],
+            [109],
+            [116],
+            [128]
+        ]
+    }, {
+        "startTime": "15:00",
+        "endTime": "15:45",
+        "sessions": [
+            [120],
+            [102],
+            [106],
+            [124]
+        ]
+    }, {
+        "startTime": "16:00",
+        "endTime": "16:45",
+        "sessions": [
+            [130],
+            [113],
+            [121],
+            [119]
+        ]
+    }, {
+        "startTime": "17:00",
+        "endTime": "17:45",
+        "sessions": [
+            [131],
+            [104],
+            [105],
+            [1007]
+        ]
+    }, {
+        "startTime": "17:45",
         "endTime": "18:00",
         "sessions": [
-            [1007]
+            [1006]
         ]
     }]
 }]

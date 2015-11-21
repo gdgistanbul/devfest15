@@ -31,6 +31,31 @@
     "presentation": "",
     "video": ""
 }, {
+    "id": 1005,
+    "title": "DevFest Istanbul 2015 Opening",
+    "description": "Official start of the conference. Greatings from the organizers, sponsors and partners.",
+    "language": "EN/TR",
+    "complexity": "",
+    "presentation": "",
+    "video": ""
+}, {
+    "id": 1006,
+    "title": "Closing Keynote",
+    "description": "",
+    "language": "EN/TR",
+    "complexity": "",
+    "presentation": "",
+    "video": ""
+}, {
+    "id": 1007,
+    "title": "GDG Unconference",
+    "description": "What is unconference?<br/><br/>An unconference is a conference organized, structured and led by the people attending it. Instead of passive listening, all attendees and organizers are encouraged to become participants, with discussion leaders providing moderation and structure for attendees. Overall, it's a participant-driven meeting.<br/><br/>Agenda is expected to be about GDG, community, collaboration, best practises, etc. It is a GDG Gathering session.",
+    "speakers": [32],
+    "language": "EN/TR",
+    "complexity": "",
+    "presentation": "",
+    "video": ""
+}, {
     "id": 101,
     "title": "Material Design on Custom Views",
     "description": "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class.<br/><br/>In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance.<br/><br/>I will also talk about how to apply Material Design in Custom Views with the support of older platform versions.",
@@ -400,5 +425,18 @@
     "tags": [
         "Cloud",
         "Bluemix"
+    ]
+}, {
+    "id": 131,
+    "title": "Working in an effective team",
+    "description": "Most of us know about agile practices such as Scrum or Kanban, we have heard about and/or practice continuous integration and maybe even continuous delivery. We dream of TDD, BDD, XP and other buzzwords. But how do you put these in practice? How do you get your team to be an effective team? How do you get those dreams to not turn out as nightmares?<br/><br/>That is what we were asking ourselves at AppFoundry while making our apps. How would we apply this on our native clients? How do you do these things on Android? And how do you manage your backends in conjunction with these frontend platforms?<br/><br/>In this talk we’ll tell you the story of our quest to become an effective team.",
+    "speakers": [31],
+    "language": "EN",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Android",
+        "Effective Teams"
     ]
 }]
