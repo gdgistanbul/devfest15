@@ -402,8 +402,8 @@
     ]
 }, {
     "id": 130,
-    "title": "IBM Bluemix üzerinde Docker Container Yönetimi",
-    "description": "Containerization, günümüzde uygulamalara taşınabilirlik ve hafiflik özelliğini getiren, uygulamaları modülerleştiren en güçlü teknolojilerden biri, ve geliştiricilerin işini çok kolaylaştıran bir yapıya sahip. Bu sunumda Bulut teknolojisi ile docker entegrasyonundan, ve IBM Bluemix ile bu entegrasyonun getirdiği avantajlardan bahsedeceğim.",
+    "title": "Docker Containers in IBM Bluemix",
+    "description": "Containerization is one of the most effective technologies which enable applications to be much more lightweight and portable, as well as enabling application developers to be much more agile. This session gives information about combining the advantages of containers and cloud.",
     "speakers": [30],
     "language": "EN",
     "complexity": "",
