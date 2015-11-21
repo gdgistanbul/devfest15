@@ -202,7 +202,7 @@
     "name": "Mark Stephens",
     "title": "",
     "company": "IDRsolutions",
-    "country": "",
+    "country": "UK",
     "photoUrl": "../../images/people/mark_stephens.jpg",
     "bio": "Mark Stephens has been working with Java since 1997 and PDF since 1999. He is an Entrepreneur and software developer who setup IDRsolutions in 1999. IDRsolutions develops a Java PDF library and a PDF to HTML5/SVG converter. He has an MSC degree in Computer Science and an MA in Mediaeval History with a detailed knowledge of Byzantine and Ottoman History. So DevFest is his dream conference as it combines coding with castles, churches, mosques and cisterns.",
     "tags": ["Java"],
@@ -274,7 +274,7 @@
 }, {
     "id": 20,
     "featured": true,
-    "name": "Hallade Xavier",
+    "name": "Xavier Hallade",
     "title": "Application Engineer",
     "company": "Intel",
     "country": "France",
@@ -428,43 +428,10 @@
         "link": "https://twitter.com/cagataycivici"
     }]
 }, {
-    "id": 10,
-    "name": "Achim Fischer",
-    "title": "Founder & Managing Director",
-    "company": "Codingfish",
-    "country": "Germany",
-    "photoUrl": "../../images/people/achim_fischer.jpg",
-    "bio": "Android- and Rails-Developer from Fulda, Germany. Creator of the CMS Chimoora. Hobbies are traveling, photographing and spending money for mobile devices.",
-    "tags": ["Android", "Mobile"],
-    "socials": [{
-        "name": "Website",
-        "icon": "link",
-        "link": "https://www.codingfish.com"
-    }, {
-        "name": "Twitter",
-        "icon": "app-icons:twitter",
-        "link": "https://twitter.com/codingfish"
-    }, {
-        "name": "Google+",
-        "icon": "app-icons:gplus",
-        "link": "https://plus.google.com/+Codingfish"
-    }, {
-        "name": "Instagram",
-        "icon": "app-icons:instagram",
-        "link": "https://instagram.com/achimfischer"
-    }, {
-        "name": "Facebook",
-        "icon": "app-icons:facebook",
-        "link": "http://www.facebook.com/codingfish"
-    }, {
-        "name": "GitHub",
-        "icon": "app-icons:github",
-        "link": "https://github.com/codingfish/"
-    }]
-}, {
     "id": 4,
     "name": "Martin Liersch",
     "title": "Android Developer",
+    "company": "Freelance",
     "country": "Germany",
     "photoUrl": "../../images/people/martin_liersch.jpg",
     "bio": "He is an Android developer and works as a freelancer. Since he got his first phone running Android 2.0 he has developed a couple of dozen apps, of which some cracked the 1 million download mark. He is also a co-lead of GDG (Google Developer Group) Bodensee.",
