@@ -777,15 +777,35 @@
     "photoUrl": "../../images/people/filip_maelbrancke.jpg",
     "bio": "Filip Maelbrancke is a software consultant at AppFoundry in Belgium. He mainly works on Android projects in the financial services, telecom and media sectors as a developer and tech lead.",
     "tags": ["Android"],
-    "socials": []
+    "socials": [{
+        "name": "Github",
+        "icon": "app-icons:github",
+        "link": "https://github.com/filipmaelbrancke"
+    }, {
+        "name": "Google+",
+        "icon": "app-icons:gplus",
+        "link": "https://plus.google.com/+FilipMaelbrancke"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://be.linkedin.com/in/filipmaelbrancke"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/fmaelbrancke"
+    }]
 }, {
     "id": 32,
     "name": "GDG",
     "title": "",
-    "company": "",
+    "company": "Google Developer Groups",
     "country": "All Over The World",
-    "photoUrl": "../../images/people/yeliz_taneroglu.jpg",
-    "bio": "",
+    "photoUrl": "../../images/people/gdg.jpg",
+    "bio": "Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology; everything from the Android, Chrome, Drive, and Google Cloud platforms, to product APIs like the Cast API, Maps API, and YouTube API.<br/><br/>A GDG can take many forms -- from just a few people getting together to watch our latest video, to large gatherings with demos and tech talks, to events like code sprints and hackathons. However, at the core, GDGs are focused on developers and technical content, and the core audience should be developers.",
     "tags": ["GDG"],
-    "socials": []
+    "socials": [{
+        "name": "Website",
+        "icon": "link",
+        "link": "https://developers.google.com/groups/"
+    }]
 }]
