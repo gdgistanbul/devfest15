@@ -176,8 +176,8 @@
     "presentation": "",
     "video": "",
     "tags": [
-        "Mobile",
         "UX",
+        "Mobile",
         "Design",
         "Animation"
     ]
@@ -425,5 +425,18 @@
     "tags": [
         "Android",
         "Effective Teams"
+    ]
+}, {
+    "id": 132,
+    "title": "UX Metrics - a teamwork",
+    "description": "Metrics, like in any other field, make any experience measurable and provide an objective discussion ground for teams making decisions. Yet development teams are often considered as the ones who are at the receiving end of these decisions. They are the most effective when considered shared outcome.<br/><br/>This talk with clarify and exemplify benefits of defining UX metrics in multidisciplinary teams.",
+    "speakers": [32],
+    "language": "EN",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "UX",
+        "Team"
     ]
 }]
