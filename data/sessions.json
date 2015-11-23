@@ -34,6 +34,7 @@
     "id": 1005,
     "title": "DevFest Istanbul 2015 Opening",
     "description": "Official start of the conference. Greatings from the organizers, sponsors and partners.",
+    "speakers": [34, 15, 1],
     "language": "EN/TR",
     "complexity": "",
     "presentation": "",
