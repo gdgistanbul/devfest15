@@ -439,4 +439,19 @@
         "UX",
         "Team"
     ]
+}, {
+    "id": 133,
+    "title": "Android 101",
+    "description": "Android 101 size şunları öğretir :<br/><br/>-Android nedir? Android Studio nasıl kullanılır?<br/>-Gradle nedir?<br/>-Activity nedir? View nedir?<br/>-Resources dosyaları nelerdir?<br/>-Küçük, sevimli bir Android uygulaması nasıl yapılır?<br/>-ve bu Google Play Store da nasıl yayınlanır?",
+    "speakers": [33],
+    "language": "TR",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Android",
+        "Android Studio",
+        "Gradle",
+        "Workshop"
+    ]
 }]
