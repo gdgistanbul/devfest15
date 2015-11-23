@@ -51,6 +51,14 @@
         "url": "http://www.arasokakistanbul.com/",
         "logoUrl": "../images/partners/arasokak.jpg"
     }, {
+        "name": "BAU",
+        "url": "http://www.bahcesehir.edu.tr/",
+        "logoUrl": "../images/partners/bau.jpg"
+    }, {
+        "name": "Incubation Center",
+        "url": "http://www.bahcesehir.edu.tr/",
+        "logoUrl": "../images/partners/incubationcenter.jpg"
+    }, {
         "name": "BAU Yazılım ve Bilişim Klübü",
         "url": "http://yazilimbilisim.org/",
         "logoUrl": "../images/partners/Buyabi.svg"
