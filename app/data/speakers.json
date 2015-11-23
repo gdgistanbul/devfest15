@@ -66,6 +66,21 @@
         "link": "https://github.com/MarieSchweiz"
     }]
 }, {
+    "id": 32,
+    "featured": true,
+    "name": "Esin IŞIK",
+    "title": "Independent Experience Designer",
+    "company": "Esin ISIK Experience Design",
+    "country": "Istanbul",
+    "photoUrl": "../../images/people/esin_isik.jpg",
+    "bio": "Esin is an independent user experience designer with 5 years experience in fields including banking IT, user research in sensitive topics, emotional design, interaction design, service design, creative facilitation.<br/><br/>She completed a master's degree in TUDelft in the Netherlands in 2010 in the field of Design for Interaction after an undergarduate degree at the department of Industrial Design at METU (Middle East Technical University) in Ankara in 2007. She first started with digital experience design consulting in i-am Istanbul, then was in Denizbank and Garanti Bank's IT companies.<br/><br/>Her current focus is getting startup teams to become more experience design conscious and she also keeps being  a consultant for corporate design teams and IT projects.",
+    "tags": ["Design"],
+    "socials": [{
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "https://tr.linkedin.com/in/esinis"
+    }]
+}, {
     "id": 8,
     "featured": true,
     "name": "Jonathan LeBlanc",
@@ -762,7 +777,7 @@
         "link": "https://twitter.com/fmaelbrancke"
     }]
 }, {
-    "id": 32,
+    "id": 100,
     "name": "GDG",
     "title": "",
     "company": "Google Developer Groups",
