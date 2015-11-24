@@ -68,7 +68,7 @@
 }, {
     "id": 34,
     "featured": true,
-    "name": "Barış Yesügey",
+    "name": "Baris Yesugey",
     "title": "Region Lead, Google Developer Relations",
     "company": "Google",
     "country": "Istanbul",
@@ -80,8 +80,7 @@
         "icon": "app-icons:linkedin",
         "link": "https://www.linkedin.com/in/barisyesugey"
     }]
-}
-, {
+}, {
     "id": 32,
     "featured": true,
     "name": "Esin IŞIK",

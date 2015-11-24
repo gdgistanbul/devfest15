@@ -455,4 +455,17 @@
         "Gradle",
         "Workshop"
     ]
+}, {
+    "id": 134,
+    "title": "Dart Codelab",
+    "description": "In this session you will explore how to write your first server-side Dart application. Come to this workshop to try and learn Dart, have fun and see how you can write awesome applications and be productive with it. Note: please don't forget to bring your laptop with downloaded Dart and some editor/IDE with Dart support. More info: https://www.dartlang.org/downloads/",
+    "speakers": [12],
+    "language": "EN",
+    "complexity": "",
+    "presentation": "",
+    "video": "",
+    "tags": [
+        "Dart",
+        "Workshop"
+    ]
 }]
