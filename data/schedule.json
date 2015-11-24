@@ -105,16 +105,10 @@
         "title": "Workshop Room"
     }],
     "timeslots": [{
-        "startTime": "10:00",
-        "endTime": "10:45",
-        "sessions": [
-            [133]
-        ]
-    }, {
-        "startTime": "11:00",
+        "startTime": "12:00",
         "endTime": "12:45",
         "sessions": [
-            [129]
+            [133]
         ]
     }, {
         "startTime": "12:45",
@@ -125,6 +119,12 @@
     }, {
         "startTime": "14:00",
         "endTime": "15:45",
+        "sessions": [
+            [129]
+        ]
+    }, {
+        "startTime": "16:00",
+        "endTime": "17:45",
         "sessions": [
             [134]
         ]
