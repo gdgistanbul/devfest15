@@ -777,6 +777,28 @@
         "link": "https://twitter.com/fmaelbrancke"
     }]
 }, {
+    "id": 33,
+    "name": "Burcu Türkmen",
+    "title": "Android Developer",
+    "company": "GDG Eskişehir",
+    "country": "Eskişehir",
+    "photoUrl": "../../images/people/burcu_turkmen.jpg",
+    "bio": "She got bachelor degree from Anadolu University as a Computer Engineer in 2012 . She has an active role in GDG Eskişehir Community and she is one of the co-organizers at WTM  Eskişehir Community. She has began her career as an Android Developer and she also developes iOS Applications. ",
+    "tags": ["Android"],
+    "socials": [{
+        "name": "Facebook",
+        "icon": "app-icons:facebook",
+        "link": "https://www.facebook.com/btrkmn"
+    }, {
+        "name": "Linkedin",
+        "icon": "app-icons:linkedin",
+        "link": "tr.linkedin.com/in/btrkmn"
+    }, {
+        "name": "Twitter",
+        "icon": "app-icons:twitter",
+        "link": "https://twitter.com/btrkmn"
+    }]
+}, {
     "id": 100,
     "name": "GDG",
     "title": "",

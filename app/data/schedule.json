@@ -1,6 +1,6 @@
 [{
     "date": "2015-11-29",
-    "dateReadable": "November 29",
+    "dateReadable": "Sessions",
     "tracks": [{
         "title": "Istanbul"
     }, {
@@ -96,6 +96,37 @@
         "endTime": "18:00",
         "sessions": [
             [1006]
+        ]
+    }]
+}, {
+    "date": "2015-11-29",
+    "dateReadable": "Workshops",
+    "tracks": [{
+        "title": "Workshop Room"
+    }],
+    "timeslots": [{
+        "startTime": "10:00",
+        "endTime": "11:45",
+        "sessions": [
+            [129]
+        ]
+    }, {
+        "startTime": "12:00",
+        "endTime": "12:40",
+        "sessions": [
+            [133]
+        ]
+    }, {
+        "startTime": "12:45",
+        "endTime": "14:00",
+        "sessions": [
+            [1002]
+        ]
+    }, {
+        "startTime": "14:00",
+        "endTime": "15:45",
+        "sessions": [
+            [134]
         ]
     }]
 }]
