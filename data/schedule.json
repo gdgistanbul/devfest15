@@ -106,15 +106,15 @@
     }],
     "timeslots": [{
         "startTime": "10:00",
-        "endTime": "11:45",
-        "sessions": [
-            [129]
-        ]
-    }, {
-        "startTime": "12:00",
-        "endTime": "12:40",
+        "endTime": "10:45",
         "sessions": [
             [133]
+        ]
+    }, {
+        "startTime": "11:00",
+        "endTime": "12:45",
+        "sessions": [
+            [129]
         ]
     }, {
         "startTime": "12:45",

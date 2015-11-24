@@ -21775,6 +21775,7 @@ module.exports = Array.isArray || function (arr) {
         page('/speakers', function() {
             trackPageview('/speakers');
             app.route = 'speakers';
+            app.scrollToTop();
         });
 
         page('/speakers/:id', function(data) {

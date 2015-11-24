@@ -800,6 +800,15 @@
     "photoUrl": "../../images/people/burcu_turkmen.jpg",
     "bio": "She got bachelor degree from Anadolu University as a Computer Engineer in 2012 . She has an active role in GDG Eskişehir Community and she is one of the co-organizers at WTM  Eskişehir Community. She has began her career as an Android Developer and she also developes iOS Applications. ",
     "tags": ["Android"],
+    "badges": [{
+        "name": "GDG",
+        "description": "Google Developers Group Eskişehir",
+        "link": "https://developers.google.com/groups/chapter/115602346615910585045/"
+    }, {
+        "name": "WTM",
+        "description": "Women Tech Makers Eskişehir",
+        "link": "https://developers.google.com/groups/chapter/115602346615910585045/"
+    }],
     "socials": [{
         "name": "Facebook",
         "icon": "app-icons:facebook",
