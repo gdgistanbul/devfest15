@@ -391,7 +391,7 @@
 }, {
     "id": 129,
     "title": "IBM Bluemix Workshop",
-    "description": "Uygulamalarınızı en kısa sürede Cloud ortamında yayınlayın ",
+    "description": "Uygulamalarınızı en kısa sürede Cloud ortamında yayınlayın<br/><br/><b>Gerekenler</b><br/>-> <a href=\"http://bluemix.net\" target=\"_blank\">Bluemix.net</a> üzerinden ücretsiz hesap açmış olmak<br/>-> Kendi laptopnuzu getirmeniz (Git ve herhangi bir text editörü kurulu olması yeterli)",
     "speakers": [29],
     "language": "TR",
     "complexity": "",
