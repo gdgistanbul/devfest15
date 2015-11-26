@@ -32,6 +32,10 @@
         "url": "https://www.robotistan.com/",
         "logoUrl": "../images/partners/Robotistan.svg"
     }, {
+        "name": "JetBrains",
+        "url": "https://www.jetbrains.com/",
+        "logoUrl": "../images/partners/jetbrains.svg"
+    }, {
         "name": "Dikeyeksen",
         "url": "http://dikeyeksen.com",
         "logoUrl": "../images/partners/dikeyeksen.jpg"
