@@ -57,6 +57,15 @@
     "presentation": "",
     "video": ""
 }, {
+    "id": 9999,
+    "title": "TO BE ANNOUNCED",
+    "description": "",
+    "speakers": [101],
+    "language": "EN",
+    "complexity": "",
+    "presentation": "",
+    "video": ""
+}, {
     "id": 101,
     "title": "Material Design on Custom Views",
     "description": "There are various widgets to create user interfaces in Android Framework. Using these widgets is a starting point but they are not enough to create awesome apps. Fortunately, alternative methods are here to rescue! I mean understanding and extending the View class.<br/><br/>In this presentation, I will give some Custom View examples. Some of them makes impossible things be possible and some of them increase performance.<br/><br/>I will also talk about how to apply Material Design in Custom Views with the support of older platform versions.",
@@ -363,7 +372,7 @@
     ]
 }, {
     "id": 123,
-    "title": "TO BE ANNOUNCED",
+    "title": "Updating Mobile Webpages! But Why?",
     "description": "",
     "speakers": [23],
     "language": "EN",
@@ -391,7 +400,7 @@
 }, {
     "id": 129,
     "title": "IBM Bluemix Workshop",
-    "description": "Uygulamalarınızı en kısa sürede Cloud ortamında yayınlayın<br/><br/><b>Gerekenler</b><br/>-> <a href=\"http://bluemix.net\" target=\"_blank\">Bluemix.net</a> üzerinden ücretsiz hesap açmış olmak<br/>-> Kendi laptopnuzu getirmeniz (Git ve herhangi bir text editörü kurulu olması yeterli)",
+    "description": "Uygulamalarınızı en kısa sürede Cloud ortamında yayınlayın ",
     "speakers": [29],
     "language": "TR",
     "complexity": "",
