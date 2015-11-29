@@ -841,4 +841,13 @@
         "icon": "link",
         "link": "https://developers.google.com/groups/"
     }]
+}, {
+    "id": 101,
+    "name": "",
+    "title": "",
+    "company": "",
+    "country": "",
+    "photoUrl": "../../images/people/gdg2.jpg",
+    "bio": "",
+    "tags": ["GDG"]
 }]
