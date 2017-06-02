@@ -1,5 +1,7 @@
 # [beta] Project Hoverboard - GDG DevFest 2015 site template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gdgistanbul/devfest15.svg)](https://greenkeeper.io/)
+
 ## About
 Project Hoverboard is the next generation conference website template after [Project Zeppelin](https://github.com/gdg-x/zeppelin) and more optimized version - [Project Zeppelin-Grunt](https://github.com/gdg-x/zeppelin-grunt).
 
